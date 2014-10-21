@@ -1,0 +1,24 @@
+2014-08-05 11:52:58,156 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 11:53:16,054 - INFO - Name in 58921: 特种部队：全面反击  Name in douban: 特种部队2：全面反击
+2014-08-05 11:53:16,684 - INFO - Name in 58921: 侏罗纪公园(3D)  Name in douban: 侏罗纪公园
+2014-08-05 11:53:17,519 - INFO - Name in 58921: 霍比特人：意外之旅  Name in douban: 霍比特人1：意外之旅
+2014-08-05 11:53:18,986 - INFO - Name in 58921: 天机：富春山居图  Name in douban: 天机·富春山居图
+2014-08-05 11:53:20,820 - INFO - Name in 58921: 一代宗师(2013)  Name in douban: 一代宗师
+2014-08-05 11:53:29,997 - INFO - Name in 58921: 101次求婚(2013)  Name in douban: 101次求婚
+2014-08-05 11:53:42,903 - INFO - Name in 58921: 快乐大本营之快乐到家  Name in douban: 快乐到家
+2014-08-05 11:54:09,865 - INFO - Name in 58921: 悲惨世界(2012)  Name in douban: 悲惨世界
+2014-08-05 11:54:13,872 - INFO - Name in 58921: 潜艇总动员3  Name in douban: 潜艇总动员3：彩虹宝藏
+2014-08-05 11:54:26,171 - INFO - Name in 58921: 在一起(2013)  Name in douban: 在一起
+2014-08-05 11:54:27,924 - INFO - Name in 58921: 特警判官(2012)  Name in douban: 特警判官
+2014-08-05 11:54:34,885 - INFO - Name in 58921: 电梯惊魂(2013)  Name in douban: 电梯惊魂
+2014-08-05 11:54:39,164 - INFO - Name in 58921: 昆塔·盒子总动员  Name in douban: 昆塔：盒子总动员
+2014-08-05 11:54:41,397 - INFO - Name in 58921: 爱神(2013)  Name in douban: 爱神
+2014-08-05 11:54:46,015 - INFO - Name in 58921: 逆光飞翔  Name in douban: 绿林大冒险
+2014-08-05 11:54:46,518 - INFO - Name in 58921: 绿林大冒险  Name in douban: 里约大冒险2
+2014-08-05 11:54:46,518 - WARNING - 绿林大冒险: http://movie.douban.com/subject/11443314/ release date may be wrong
+2014-08-05 11:54:59,749 - INFO - Name in 58921: 夺命追踪(2012)  Name in douban: 夺命追踪
+2014-08-05 11:55:04,739 - INFO - Name in 58921: 时光恋人  Name in douban: 时间旅行者的妻子
+2014-08-05 11:55:04,739 - WARNING - 时光恋人: http://movie.douban.com/subject/1885124/ release date may be wrong
+2014-08-05 11:55:07,254 - INFO - Name in 58921: 一路狂奔(2013)  Name in douban: 一路狂奔
+2014-08-05 11:55:17,906 - INFO - Name in 58921: 喜剧王(2012)  Name in douban: 喜剧王
+2014-08-05 11:55:19,278 - INFO - END LOGGING FROM douban_movie_crawler.py

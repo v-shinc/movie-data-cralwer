@@ -1,0 +1,1013 @@
+
+2014-08-04 11:39:31,637 - INFO - START LOGGING FROM douban_movie_crawler.py
+
+
+2014-08-04 11:39:55,782 - CRITICAL - 盲探  has no release date
+2014-08-04 11:40:24,916 - CRITICAL - 忠烈杨家将  has no release date
+2014-08-04 11:41:22,831 - CRITICAL - 时间旅行者的妻子  has no release date
+2014-08-04 11:41:41,505 - CRITICAL - 黑衣人3  has no release date
+2014-08-04 11:41:42,629 - CRITICAL - 地心历险记2：神秘岛  has no release date
+2014-08-04 11:41:48,980 - CRITICAL - 寒战  has no release date
+2014-08-04 11:41:51,942 - CRITICAL - 马达加斯加3  has no release date
+2014-08-04 11:41:53,983 - CRITICAL - 大魔术师  has no release date
+2014-08-04 11:41:56,047 - CRITICAL - 诸神之怒  has no release date
+2014-08-04 11:42:01,063 - CRITICAL - 爱  has no release date
+2014-08-04 11:42:02,297 - CRITICAL - 环形使者  has no release date 
+2014-08-04 11:42:19,887 - CRITICAL - 天生一对  has no release date
+2014-08-04 11:42:21,721 - CRITICAL - 大追捕  has no release date
+2014-08-04 11:42:33,283 - CRITICAL - 暮光之城4：破晓(下)  has no release date
+2014-08-04 11:42:46,535 - CRITICAL - 高海拔之恋Ⅱ  has no release date
+2014-08-04 11:42:57,423 - CRITICAL - 里约大冒险2  has no release date 
+2014-08-04 11:42:58,588 - CRITICAL - 真心话大冒险  has no release date 
+2014-08-04 11:42:59,724 - CRITICAL - 大力神：色雷斯之战  has no release date
+2014-08-04 11:43:20,252 - CRITICAL - 新龙门客栈  has no release date
+2014-08-04 11:43:42,707 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-04 11:47:40,515 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-04 11:47:40,575 - INFO - Name in 58921: 变形金刚3
+2014-08-04 11:47:41,131 - INFO - Name in douban 变形金刚3 
+2014-08-04 11:47:41,196 - INFO - Name in 58921: 功夫熊猫2
+2014-08-04 11:47:41,902 - INFO - Name in douban 功夫熊猫2 
+2014-08-04 11:47:41,961 - INFO - Name in 58921: 金陵十三钗
+2014-08-04 11:47:42,774 - INFO - Name in douban 金陵十三钗 
+2014-08-04 11:47:42,836 - INFO - Name in 58921: 龙门飞甲
+2014-08-04 11:47:43,710 - INFO - Name in douban 龙门飞甲 
+2014-08-04 11:47:43,767 - INFO - Name in 58921: 加勒比海盗4
+2014-08-04 11:47:44,893 - INFO - Name in douban 加勒比海盗4：惊涛怪浪 
+2014-08-04 11:47:44,941 - CRITICAL - 加勒比海盗4：惊涛怪浪  has no release date
+2014-08-04 11:47:44,952 - INFO - Name in 58921: 哈利波特与死亡圣器(下)
+2014-08-04 11:47:46,023 - INFO - Name in douban 哈利·波特与死亡圣器(下) 
+2014-08-04 11:47:46,084 - INFO - Name in 58921: 建党伟业
+2014-08-04 11:47:46,129 - WARNING - http://movie.douban.com/subject/4073898/ got none
+2014-08-04 11:47:46,129 - INFO - Name in 58921: 失恋33天
+2014-08-04 11:47:46,574 - INFO - Name in douban 失恋33天 
+2014-08-04 11:47:46,631 - INFO - Name in 58921: 蓝精灵
+2014-08-04 11:47:47,096 - INFO - Name in douban 蓝精灵 
+2014-08-04 11:47:47,153 - INFO - Name in 58921: 速度与激情5
+2014-08-04 11:47:47,674 - INFO - Name in douban 速度与激情5 
+2014-08-04 11:47:47,732 - INFO - Name in 58921: 洛杉矶之战
+2014-08-04 11:47:48,562 - INFO - Name in douban 洛杉矶之战 
+2014-08-04 11:47:48,620 - INFO - Name in 58921: 窃听风云2
+2014-08-04 11:47:49,102 - INFO - Name in douban 窃听风云2 
+2014-08-04 11:47:49,149 - CRITICAL - 窃听风云2  has no release date
+2014-08-04 11:47:49,160 - INFO - Name in 58921: 新少林寺
+2014-08-04 11:47:49,958 - INFO - Name in douban 新少林寺 
+2014-08-04 11:47:50,017 - INFO - Name in 58921: 白蛇传说(2011)
+2014-08-04 11:47:50,642 - INFO - Name in douban 白蛇传说 
+2014-08-04 11:47:50,701 - INFO - Name in 58921: 猩球崛起
+2014-08-04 11:47:51,358 - INFO - Name in douban 猩球崛起2：黎明之战 
+2014-08-04 11:47:51,418 - INFO - Name in 58921: 将爱情进行到底
+2014-08-04 11:47:52,019 - INFO - Name in douban 将爱情进行到底 
+2014-08-04 11:47:52,078 - INFO - Name in 58921: 武林外传
+2014-08-04 11:47:52,603 - INFO - Name in douban 武林外传 
+2014-08-04 11:47:52,664 - INFO - Name in 58921: 画壁
+2014-08-04 11:47:53,541 - INFO - Name in douban 画壁 
+2014-08-04 11:47:53,600 - INFO - Name in 58921: 武侠
+2014-08-04 11:47:54,155 - INFO - Name in douban 武侠 
+2014-08-04 11:47:54,231 - INFO - Name in 58921: 最强囍事2011
+2014-08-04 11:47:55,234 - INFO - Name in douban 最强囍事 
+2014-08-04 11:47:55,292 - INFO - Name in 58921: 关云长
+2014-08-04 11:47:55,954 - INFO - Name in douban 关云长 
+2014-08-04 11:47:56,013 - INFO - Name in 58921: 鸿门宴
+2014-08-04 11:47:56,650 - INFO - Name in douban 鸿门宴传奇 
+2014-08-04 11:47:56,711 - INFO - Name in 58921: 喜羊羊与灰太狼3
+2014-08-04 11:47:57,009 - INFO - Name in douban 喜羊羊与灰太狼之飞马奇遇记 
+2014-08-04 11:47:57,064 - INFO - Name in 58921: 铁甲钢拳
+2014-08-04 11:47:57,521 - INFO - Name in douban 铁甲钢拳 
+2014-08-04 11:47:57,580 - INFO - Name in 58921: 致命伴旅
+2014-08-04 11:47:58,759 - INFO - Name in douban 致命伴旅 
+2014-08-04 11:47:58,816 - INFO - Name in 58921: 倩女幽魂(2011)
+2014-08-04 11:47:59,659 - INFO - Name in douban 倩女幽魂 
+2014-08-04 11:47:59,718 - INFO - Name in 58921: 里约大冒险
+2014-08-04 11:48:00,232 - INFO - Name in douban 里约大冒险 
+2014-08-04 11:48:00,291 - INFO - Name in 58921: 丁丁历险记
+2014-08-04 11:48:00,776 - INFO - Name in douban 丁丁历险记 
+2014-08-04 11:48:00,835 - INFO - Name in 58921: 创战纪
+2014-08-04 11:48:01,249 - INFO - Name in douban 创战纪 
+2014-08-04 11:48:01,308 - INFO - Name in 58921: 纳尼亚传奇3
+2014-08-04 11:48:01,811 - INFO - Name in douban 纳尼亚传奇3：黎明踏浪号 
+2014-08-04 11:48:01,874 - INFO - Name in 58921: 夺命深渊
+2014-08-04 11:48:02,372 - INFO - Name in douban 夺命深渊 
+2014-08-04 11:48:02,435 - INFO - Name in 58921: 关键第四号
+2014-08-04 11:48:02,996 - INFO - Name in douban 关键第四号 
+2014-08-04 11:48:03,054 - INFO - Name in 58921: 财神客栈
+2014-08-04 11:48:03,657 - INFO - Name in douban 财神客栈 
+2014-08-04 11:48:03,719 - INFO - Name in 58921: 雷神
+2014-08-04 11:48:04,468 - INFO - Name in douban 雷神2：黑暗世界 
+2014-08-04 11:48:04,520 - CRITICAL - 雷神2：黑暗世界  has no release date
+2014-08-04 11:48:04,532 - INFO - Name in 58921: 美国队长
+2014-08-04 11:48:05,372 - INFO - Name in douban 美国队长2 
+2014-08-04 11:48:05,428 - CRITICAL - 美国队长2  has no release date
+2014-08-04 11:48:05,440 - INFO - Name in 58921: 单身男女
+2014-08-04 11:48:05,917 - INFO - Name in douban 单身男女 
+2014-08-04 11:48:05,979 - INFO - Name in 58921: 孤岛惊魂
+2014-08-04 11:48:06,258 - INFO - Name in douban 孤岛惊魂 
+2014-08-04 11:48:06,317 - INFO - Name in 58921: 杨善洲
+2014-08-04 11:48:06,776 - INFO - Name in douban 杨善洲 
+2014-08-04 11:48:06,833 - INFO - Name in 58921: 东成西就2011
+2014-08-04 11:48:07,212 - INFO - Name in douban 射雕英雄传之东成西就 
+2014-08-04 11:48:07,277 - INFO - Name in 58921: 赛车总动员2
+2014-08-04 11:48:07,650 - INFO - Name in douban 飞机总动员2：火线救援 
+2014-08-04 11:48:07,689 - INFO - Name in 58921: 惊天战神
+2014-08-04 11:48:08,265 - INFO - Name in douban 惊天战神 
+2014-08-04 11:48:08,330 - CRITICAL - 惊天战神  has no release date
+2014-08-04 11:48:08,344 - INFO - Name in 58921: 战国
+2014-08-04 11:48:09,290 - INFO - Name in douban 战国 
+2014-08-04 11:48:09,348 - INFO - Name in 58921: 绿灯侠
+2014-08-04 11:48:10,254 - INFO - Name in douban 绿灯侠 
+2014-08-04 11:48:10,315 - INFO - Name in 58921: 源代码
+2014-08-04 11:48:10,833 - INFO - Name in douban 源代码 
+2014-08-04 11:48:10,895 - INFO - Name in 58921: 观音山
+2014-08-04 11:48:11,524 - INFO - Name in douban 观音山 
+2014-08-04 11:48:11,582 - INFO - Name in 58921: 全球热恋
+2014-08-04 11:48:12,137 - INFO - Name in douban 全球热恋 
+2014-08-04 11:48:12,193 - INFO - Name in 58921: 我知女人心
+2014-08-04 11:48:12,683 - INFO - Name in douban 我知女人心 
+2014-08-04 11:48:12,741 - INFO - Name in 58921: 飞天
+2014-08-04 11:48:13,193 - INFO - Name in douban 红猪 
+2014-08-04 11:48:13,249 - INFO - Name in 58921: 狂暴飞车
+2014-08-04 11:48:13,774 - INFO - Name in douban 狂暴飞车 
+2014-08-04 11:48:13,833 - INFO - Name in 58921: 辛亥革命
+2014-08-04 11:48:14,420 - INFO - Name in douban 辛亥革命 
+2014-08-04 11:48:14,478 - INFO - Name in 58921: 最爱
+2014-08-04 11:48:15,068 - INFO - Name in douban 我在路上最爱你 
+2014-08-04 11:48:15,131 - INFO - Name in 58921: 天际浩劫
+2014-08-04 11:48:15,698 - INFO - Name in douban 天际浩劫 
+2014-08-04 11:48:15,754 - INFO - Name in 58921: 永无止境(2011)
+2014-08-04 11:48:17,421 - INFO - Name in douban 永无止境 
+2014-08-04 11:48:17,478 - INFO - Name in 58921: 神奇侠侣
+2014-08-04 11:48:17,987 - INFO - Name in douban 神奇侠侣 
+2014-08-04 11:48:18,043 - INFO - Name in 58921: 大武生
+2014-08-04 11:48:18,544 - INFO - Name in douban 大武生 
+2014-08-04 11:48:18,603 - INFO - Name in 58921: 美少女特攻队
+2014-08-04 11:48:19,091 - INFO - Name in douban 美少女特攻队 
+2014-08-04 11:48:19,146 - INFO - Name in 58921: 熊猫总动员
+2014-08-04 11:48:19,679 - INFO - Name in douban 熊猫总动员 
+2014-08-04 11:48:19,734 - INFO - Name in 58921: 赛尔号之寻找凤凰神兽
+2014-08-04 11:48:20,143 - INFO - Name in douban 赛尔号大电影之寻找凤凰神兽 
+2014-08-04 11:48:20,200 - INFO - Name in 58921: 女巫季节
+2014-08-04 11:48:21,081 - INFO - Name in douban 女巫季节 
+2014-08-04 11:48:21,137 - INFO - Name in 58921: 驱魔者
+2014-08-04 11:48:21,656 - INFO - Name in douban 驱魔者 
+2014-08-04 11:48:21,719 - INFO - Name in 58921: 杨门女将之军令如山
+2014-08-04 11:48:22,282 - INFO - Name in douban 杨门女将之军令如山 
+2014-08-04 11:48:22,344 - INFO - Name in 58921: 雪花秘扇
+2014-08-04 11:48:22,980 - INFO - Name in douban 雪花秘扇 
+2014-08-04 11:48:23,038 - INFO - Name in 58921: 洛克王国！圣龙骑士
+2014-08-04 11:48:23,827 - INFO - Name in douban 洛克王国3：圣龙的守护 
+2014-08-04 11:48:23,884 - INFO - Name in 58921: 幸福额度
+2014-08-04 11:48:24,320 - INFO - Name in douban 幸福额度 
+2014-08-04 11:48:24,376 - INFO - Name in 58921: 寻龙夺宝
+2014-08-04 11:48:24,823 - INFO - Name in douban 寻龙夺宝 
+2014-08-04 11:48:24,880 - INFO - Name in 58921: 假装情侣
+2014-08-04 11:48:25,903 - INFO - Name in douban 假装情侣 
+2014-08-04 11:48:25,956 - INFO - Name in 58921: 赤焰战场
+2014-08-04 11:48:26,548 - INFO - Name in douban 赤焰战场2 
+2014-08-04 11:48:26,607 - INFO - Name in 58921: 宇宙英雄之超银河传说
+2014-08-04 11:48:27,014 - INFO - Name in douban 宇宙英雄之超银河传说 
+2014-08-04 11:48:27,069 - INFO - Name in 58921: 名侦探柯南2011：沉默的15分钟
+2014-08-04 11:48:27,546 - INFO - Name in douban 名侦探柯南：远海的侦探 
+2014-08-04 11:48:27,593 - CRITICAL - 名侦探柯南：远海的侦探  has no release date
+2014-08-04 11:48:27,604 - INFO - Name in 58921: 战略特勤组
+2014-08-04 11:48:28,010 - INFO - Name in douban 战略特勤组 
+2014-08-04 11:48:28,065 - INFO - Name in 58921: 五月天追梦3DNA
+2014-08-04 11:48:28,352 - INFO - Name in douban 五月天追梦 
+2014-08-04 11:48:28,413 - INFO - Name in 58921: 海洋
+2014-08-04 11:48:29,535 - INFO - Name in douban 海洋天堂 
+2014-08-04 11:48:29,591 - INFO - Name in 58921: 我爱HK  开心万岁
+2014-08-04 11:48:30,053 - INFO - Name in douban 我爱HK 开心万岁 
+2014-08-04 11:48:30,114 - INFO - Name in 58921: 危情三日
+2014-08-04 11:48:30,505 - INFO - Name in douban 危情三日 
+2014-08-04 11:48:30,562 - INFO - Name in 58921: 硬汉2奉陪到底
+2014-08-04 11:48:31,006 - INFO - Name in douban 硬汉2：奉陪到底 
+2014-08-04 11:48:31,062 - INFO - Name in 58921: B+侦探
+2014-08-04 11:48:31,651 - INFO - Name in douban B+侦探 
+2014-08-04 11:48:31,707 - INFO - Name in 58921: 整编特工
+2014-08-04 11:48:32,230 - INFO - Name in douban 整编特工 
+2014-08-04 11:48:32,287 - INFO - Name in 58921: 不再让你孤单
+2014-08-04 11:48:33,162 - INFO - Name in douban 不再让你孤单 
+2014-08-04 11:48:33,227 - INFO - Name in 58921: 无价之宝
+2014-08-04 11:48:33,377 - INFO - Name in douban 无价之宝 
+2014-08-04 11:48:33,391 - WARNING - http://movie.douban.com/subject/25823642/ got none
+2014-08-04 11:48:33,391 - INFO - Name in 58921: 刀见笑
+2014-08-04 11:48:33,995 - INFO - Name in douban 刀见笑 
+2014-08-04 11:48:34,055 - INFO - Name in 58921: 巴黎宝贝
+2014-08-04 11:48:34,581 - INFO - Name in douban 巴黎宝贝 
+2014-08-04 11:48:34,637 - INFO - Name in 58921: 深海之战Sector 7 
+2014-08-04 11:48:35,427 - INFO - Name in douban 深海之战 
+2014-08-04 11:48:35,482 - INFO - Name in 58921: 终极快递
+2014-08-04 11:48:35,931 - INFO - Name in douban 终极快递 
+2014-08-04 11:48:35,987 - INFO - Name in 58921: 开心魔法
+2014-08-04 11:48:36,341 - INFO - Name in douban 开心魔法 
+2014-08-04 11:48:36,407 - INFO - Name in 58921: 魔法奇幻秀
+2014-08-04 11:48:37,052 - INFO - Name in douban 魔法奇幻秀 
+2014-08-04 11:48:37,109 - INFO - Name in 58921: 郭明义
+2014-08-04 11:48:37,671 - INFO - Name in douban 郭明义 
+2014-08-04 11:48:37,731 - INFO - Name in 58921: 摩尔庄园冰世纪
+2014-08-04 11:48:38,165 - INFO - Name in douban 摩尔庄园冰世纪 
+2014-08-04 11:48:38,222 - INFO - Name in 58921: 守望者：罪恶迷途
+2014-08-04 11:48:40,025 - INFO - Name in douban 守望者：罪恶迷途 
+2014-08-04 11:48:40,080 - INFO - Name in 58921: 夺命心跳
+2014-08-04 11:48:40,524 - INFO - Name in douban 夺命心跳 
+2014-08-04 11:48:40,579 - INFO - Name in 58921: 兔侠传奇
+2014-08-04 11:48:40,916 - INFO - Name in douban 兔侠传奇 
+2014-08-04 11:48:40,973 - INFO - Name in 58921: 星空
+2014-08-04 11:48:41,632 - INFO - Name in douban 星空 
+2014-08-04 11:48:41,687 - CRITICAL - 星空  has no release date
+2014-08-04 11:48:41,699 - INFO - Name in 58921: 密室之不可靠岸
+2014-08-04 11:48:42,102 - INFO - Name in douban 密室之不可靠岸 
+2014-08-04 11:48:42,158 - INFO - Name in 58921: 激战运钞车
+2014-08-04 11:48:42,724 - INFO - Name in douban 激战运钞车 
+2014-08-04 11:48:42,780 - INFO - Name in 58921: 丛林有情狼
+2014-08-04 11:48:43,560 - INFO - Name in douban 丛林有情狼 
+2014-08-04 11:48:43,617 - INFO - Name in 58921: 床下有人
+2014-08-04 11:48:43,881 - INFO - Name in douban 床下有人2 
+2014-08-04 11:48:43,911 - INFO - Name in 58921: B区32号
+2014-08-04 11:48:44,403 - INFO - Name in douban B区32号 
+2014-08-04 11:48:44,457 - INFO - Name in 58921: 隐婚男女
+2014-08-04 11:48:45,207 - INFO - Name in douban 隐婚男女 
+2014-08-04 11:48:45,263 - INFO - Name in 58921: 超能游戏者
+2014-08-04 11:48:45,775 - INFO - Name in douban 超能游戏者 
+2014-08-04 11:48:45,830 - INFO - Name in 58921: 三傻大闹宝莱坞
+2014-08-04 11:48:46,266 - INFO - Name in douban 三傻大闹宝莱坞 
+2014-08-04 11:48:46,326 - INFO - Name in 58921: 紫宅
+2014-08-04 11:48:46,857 - INFO - Name in douban 紫宅 
+2014-08-04 11:48:46,915 - INFO - Name in 58921: 肩上蝶
+2014-08-04 11:48:47,563 - INFO - Name in douban 肩上蝶 
+2014-08-04 11:48:47,622 - INFO - Name in 58921: 孤胆特工
+2014-08-04 11:48:48,342 - INFO - Name in douban 孤胆特工 
+2014-08-04 11:48:48,412 - INFO - Name in 58921: 爱到底
+2014-08-04 11:48:48,855 - INFO - Name in douban 爱到底 
+2014-08-04 11:48:48,916 - INFO - Name in 58921: 梦游(2011)
+2014-08-04 11:48:49,452 - INFO - Name in douban 梦游 
+2014-08-04 11:48:49,510 - INFO - Name in 58921: 大人物
+2014-08-04 11:48:50,186 - INFO - Name in douban 谋杀绿脚趾 
+2014-08-04 11:48:50,242 - INFO - Name in 58921: 致命请柬
+2014-08-04 11:48:50,798 - INFO - Name in douban 致命请柬 
+2014-08-04 11:48:50,852 - INFO - Name in 58921: 精英部队2：大敌当前
+2014-08-04 11:48:51,382 - INFO - Name in douban 精英部队2：大敌当前 
+2014-08-04 11:48:51,442 - INFO - Name in 58921: 回马枪
+2014-08-04 11:48:52,115 - INFO - Name in douban 回马枪 
+2014-08-04 11:48:52,171 - INFO - Name in 58921: 双重身份(2011)
+2014-08-04 11:48:52,754 - INFO - Name in douban 双重身份 
+2014-08-04 11:48:52,819 - INFO - Name in 58921: 李献计历险记(2011)
+2014-08-04 11:48:53,508 - INFO - Name in douban 李献计历险记 
+2014-08-04 11:48:53,568 - INFO - Name in 58921: 迷踪：第九鹰团
+2014-08-04 11:48:54,318 - INFO - Name in douban 迷踪：第九鹰团 
+2014-08-04 11:48:54,374 - INFO - Name in 58921: 夜惊魂
+2014-08-04 11:48:54,863 - INFO - Name in douban 夜惊魂 
+2014-08-04 11:48:54,916 - INFO - Name in 58921: 迷途追凶
+2014-08-04 11:48:55,642 - INFO - Name in douban 迷途追凶 
+2014-08-04 11:48:55,697 - INFO - Name in 58921: 不明身份
+2014-08-04 11:48:56,207 - INFO - Name in douban 不明身份 
+2014-08-04 11:48:56,264 - INFO - Name in 58921: 无极限之危情速递
+2014-08-04 11:48:57,003 - INFO - Name in douban 无极限之危情速递 
+2014-08-04 11:48:57,058 - INFO - Name in 58921: 玩命狙击
+2014-08-04 11:48:57,652 - INFO - Name in douban 玩命狙击 
+2014-08-04 11:48:57,708 - INFO - Name in 58921: 戒烟不戒酒
+2014-08-04 11:48:58,303 - INFO - Name in douban 戒烟不戒酒 
+2014-08-04 11:48:58,359 - INFO - Name in 58921: 男得有爱
+2014-08-04 11:48:59,196 - INFO - Name in douban 男得有爱 
+2014-08-04 11:48:59,249 - INFO - Name in 58921: 一夜未了情
+2014-08-04 11:48:59,717 - INFO - Name in douban 雨人 
+2014-08-04 11:48:59,773 - INFO - Name in 58921: 钢的琴
+2014-08-04 11:49:00,376 - INFO - Name in douban 钢的琴 
+2014-08-04 11:49:00,440 - INFO - Name in 58921: 与时尚同居
+2014-08-04 11:49:00,962 - INFO - Name in douban 与时尚同居 
+2014-08-04 11:49:01,020 - INFO - Name in 58921: 午夜凶梦
+2014-08-04 11:49:01,537 - INFO - Name in douban 午夜凶梦 
+2014-08-04 11:49:01,591 - INFO - Name in 58921: 翻滚吧！阿信
+2014-08-04 11:49:02,437 - INFO - Name in douban 翻滚吧！阿信 
+2014-08-04 11:49:02,495 - INFO - Name in 58921: 奇袭60阵地
+2014-08-04 11:49:02,928 - INFO - Name in douban 奇袭60阵地 
+2014-08-04 11:49:02,983 - INFO - Name in 58921: 奋斗
+2014-08-04 11:49:03,553 - INFO - Name in douban 奋斗 
+2014-08-04 11:49:03,610 - INFO - Name in 58921: 我们约会吧
+2014-08-04 11:49:04,070 - INFO - Name in douban 我们约会吧 
+2014-08-04 11:49:04,124 - INFO - Name in 58921: 夏日乐悠悠
+2014-08-04 11:49:04,652 - INFO - Name in douban 夏日乐悠悠 
+2014-08-04 11:49:04,719 - INFO - Name in 58921: 水落石出
+2014-08-04 11:49:05,147 - INFO - Name in douban 水落石出 
+2014-08-04 11:49:05,203 - INFO - Name in 58921: 追爱
+2014-08-04 11:49:05,812 - INFO - Name in douban 追爱大布局 
+2014-08-04 11:49:05,871 - INFO - Name in 58921: 像小强一样活着
+2014-08-04 11:49:06,253 - INFO - Name in douban 像小强一样活着 
+2014-08-04 11:49:06,306 - INFO - Name in 58921: 宅男总动员
+2014-08-04 11:49:06,904 - INFO - Name in douban 宅男总动员 
+2014-08-04 11:49:06,959 - INFO - Name in 58921: 转山
+2014-08-04 11:49:07,547 - INFO - Name in douban 转山 
+2014-08-04 11:49:07,606 - INFO - Name in 58921: 遍地狼烟(2011)
+2014-08-04 11:49:08,122 - INFO - Name in douban 遍地狼烟 
+2014-08-04 11:49:08,176 - INFO - Name in 58921: 万有引力
+2014-08-04 11:49:08,776 - INFO - Name in douban 万有引力 
+2014-08-04 11:49:08,832 - INFO - Name in 58921: 巨额交易
+2014-08-04 11:49:09,266 - INFO - Name in douban 巨额交易 
+2014-08-04 11:49:09,321 - INFO - Name in 58921: 恋爱恐慌症
+2014-08-04 11:49:09,769 - INFO - Name in douban 恋爱恐慌症 
+2014-08-04 11:49:09,825 - INFO - Name in 58921: 黄沙武士
+2014-08-04 11:49:10,612 - INFO - Name in douban 黄沙武士 
+2014-08-04 11:49:10,667 - INFO - Name in 58921: 爱封了
+2014-08-04 11:49:11,297 - INFO - Name in douban 爱封了 
+2014-08-04 11:49:11,353 - INFO - Name in 58921: 房不剩防
+2014-08-04 11:49:11,889 - INFO - Name in douban 房不剩防 
+2014-08-04 11:49:11,943 - INFO - Name in 58921: 挪威的森林
+2014-08-04 11:49:12,432 - INFO - Name in douban 挪威的森林 
+2014-08-04 11:49:12,492 - INFO - Name in 58921: 疾速行动
+2014-08-04 11:49:13,223 - INFO - Name in douban 疾速行动 
+2014-08-04 11:49:13,276 - INFO - Name in 58921: 热浪球爱战
+2014-08-04 11:49:13,908 - INFO - Name in douban 热浪球爱战 
+2014-08-04 11:49:13,962 - INFO - Name in 58921: 秋之白华
+2014-08-04 11:49:14,456 - INFO - Name in douban 秋之白华 
+2014-08-04 11:49:14,513 - INFO - Name in 58921: 蛋炒饭
+2014-08-04 11:49:15,063 - INFO - Name in douban 蛋炒饭 
+2014-08-04 11:49:15,118 - INFO - Name in 58921: 再吻我一次
+2014-08-04 11:49:15,633 - INFO - Name in douban 新妈妈再爱我一次 
+2014-08-04 11:49:15,693 - INFO - Name in 58921: 魁拔之十万火急
+2014-08-04 11:49:16,198 - INFO - Name in douban 魁拔之十万火急 
+2014-08-04 11:49:16,256 - INFO - Name in 58921: 无底洞
+2014-08-04 11:49:17,249 - INFO - Name in douban 深渊 
+2014-08-04 11:49:17,305 - INFO - Name in 58921: 恐龙宝贝
+2014-08-04 11:49:17,671 - INFO - Name in douban 恐龙宝贝 
+2014-08-04 11:49:17,707 - INFO - Name in 58921: 老夫子之小水虎传奇
+2014-08-04 11:49:18,211 - INFO - Name in douban 老夫子之小水虎传奇 
+2014-08-04 11:49:18,276 - INFO - Name in 58921: 黑暗终结者
+2014-08-04 11:49:18,817 - INFO - Name in douban 黑暗终结者 
+2014-08-04 11:49:18,872 - INFO - Name in 58921: 倩女幽魂(1987)
+2014-08-04 11:49:19,483 - INFO - Name in douban 倩女幽魂 
+2014-08-04 11:49:19,539 - INFO - Name in 58921: 歼十出击
+2014-08-04 11:49:19,995 - INFO - Name in douban 歼十出击 
+2014-08-04 11:49:20,051 - INFO - Name in 58921: 跟踪孔令学
+2014-08-04 11:49:20,437 - INFO - Name in douban 跟踪孔令学 
+2014-08-04 11:49:20,492 - INFO - Name in 58921: 劳拉的星星在中国
+2014-08-04 11:49:20,943 - INFO - Name in douban 劳拉的星星在中国 
+2014-08-04 11:49:20,996 - INFO - Name in 58921: 敏感事件
+2014-08-04 11:49:21,478 - INFO - Name in douban 敏感事件 
+2014-08-04 11:49:21,540 - INFO - Name in 58921: 囧探佳人
+2014-08-04 11:49:22,412 - INFO - Name in douban 囧探佳人 
+2014-08-04 11:49:22,467 - INFO - Name in 58921: 嘿・店
+2014-08-04 11:49:22,912 - INFO - Name in douban 嘿店 
+2014-08-04 11:49:22,966 - INFO - Name in 58921: 幸福卡片
+2014-08-04 11:49:23,695 - INFO - Name in douban 幸福卡片 
+2014-08-04 11:49:23,749 - INFO - Name in 58921: 左利军
+2014-08-04 11:49:23,979 - INFO - Name in douban 左利军 
+2014-08-04 11:49:24,002 - INFO - Name in 58921: 蔡李佛：极限拳速
+2014-08-04 11:49:24,427 - INFO - Name in douban 蔡李佛拳 
+2014-08-04 11:49:24,481 - INFO - Name in 58921: 岁岁清明
+2014-08-04 11:49:24,956 - INFO - Name in douban 岁岁清明 
+2014-08-04 11:49:25,013 - INFO - Name in 58921: 艺术家(2011)
+2014-08-04 11:49:25,616 - INFO - Name in douban 艺术家 
+2014-08-04 11:49:25,674 - INFO - Name in 58921: 藏獒多吉
+2014-08-04 11:49:26,466 - INFO - Name in douban 藏獒多吉 
+2014-08-04 11:49:26,520 - INFO - Name in 58921: 鸡排英雄
+2014-08-04 11:49:26,915 - INFO - Name in douban 鸡排英雄 
+2014-08-04 11:49:26,970 - INFO - Name in 58921: 芳香之城传奇
+2014-08-04 11:49:27,529 - INFO - Name in douban 芳香之城传奇 
+2014-08-04 11:49:27,584 - INFO - Name in 58921: 光棍终结者
+2014-08-04 11:49:28,054 - INFO - Name in douban 光棍终结者 
+2014-08-04 11:49:28,110 - INFO - Name in 58921: 侠盗石川
+2014-08-04 11:49:28,704 - INFO - Name in douban 侠盗石川 
+2014-08-04 11:49:28,761 - INFO - Name in 58921: 堵车
+2014-08-04 11:49:29,206 - INFO - Name in douban 堵车 
+2014-08-04 11:49:29,260 - INFO - Name in 58921: 2012来了
+2014-08-04 11:49:29,723 - INFO - Name in douban 2012来了 
+2014-08-04 11:49:29,781 - INFO - Name in 58921: 闯堂兔
+2014-08-04 11:49:30,141 - INFO - Name in douban 闯堂兔 
+2014-08-04 11:49:30,181 - INFO - Name in 58921: 西柏坡
+2014-08-04 11:49:31,095 - INFO - Name in douban 西柏坡 
+2014-08-04 11:49:31,145 - INFO - Name in 58921: 英雄喋血
+2014-08-04 11:49:31,667 - INFO - Name in douban 英雄喋血 
+2014-08-04 11:49:31,720 - INFO - Name in 58921: 双人床条约
+2014-08-04 11:49:32,239 - INFO - Name in douban 双人床条约 
+2014-08-04 11:49:32,295 - INFO - Name in 58921: 新月魅影
+2014-08-04 11:49:32,835 - INFO - Name in douban 新月魅影 
+2014-08-04 11:49:32,900 - INFO - Name in 58921: 少年岳飞传奇
+2014-08-04 11:49:33,251 - INFO - Name in douban 少年岳飞传奇 
+2014-08-04 11:49:33,300 - INFO - Name in 58921: 湘江北去
+2014-08-04 11:49:33,988 - INFO - Name in douban 湘江北去 
+2014-08-04 11:49:34,044 - INFO - Name in 58921: 钢琴木马
+2014-08-04 11:49:34,760 - INFO - Name in douban 钢琴木马 
+2014-08-04 11:49:34,815 - INFO - Name in 58921: 竞雄女侠秋瑾
+2014-08-04 11:49:35,568 - INFO - Name in douban 竞雄女侠秋瑾 
+2014-08-04 11:49:35,623 - INFO - Name in 58921: 惊沙
+2014-08-04 11:49:36,174 - INFO - Name in douban 惊沙 
+2014-08-04 11:49:36,228 - INFO - Name in 58921: 非常营救
+2014-08-04 11:49:37,167 - INFO - Name in douban 非常营救 
+2014-08-04 11:49:37,226 - INFO - Name in 58921: 你是哪里人
+2014-08-04 11:49:37,729 - INFO - Name in douban 你是哪里人 
+2014-08-04 11:49:37,783 - INFO - Name in 58921: 一路惊心
+2014-08-04 11:49:38,308 - INFO - Name in douban 一路惊心 
+2014-08-04 11:49:38,362 - INFO - Name in 58921: 失控
+2014-08-04 11:49:38,808 - INFO - Name in douban 超能失控 
+2014-08-04 11:49:38,852 - CRITICAL - 超能失控  has no release date
+2014-08-04 11:49:38,863 - INFO - Name in 58921: 云下的日子
+2014-08-04 11:49:39,299 - INFO - Name in douban 云下的日子 
+2014-08-04 11:49:39,355 - INFO - Name in 58921: 大太阳
+2014-08-04 11:49:39,809 - INFO - Name in douban 大太阳 
+2014-08-04 11:49:39,864 - INFO - Name in 58921: 极速先锋
+2014-08-04 11:49:40,315 - INFO - Name in douban 极速先锋 
+2014-08-04 11:49:40,375 - INFO - Name in 58921: 无界之地
+2014-08-04 11:49:41,015 - INFO - Name in douban 无界之地 
+2014-08-04 11:49:41,075 - INFO - Name in 58921: 正·青春
+2014-08-04 11:49:41,497 - INFO - Name in douban 正·青春 
+2014-08-04 11:49:41,552 - INFO - Name in 58921: 完美的爱
+2014-08-04 11:49:42,002 - INFO - Name in douban 完美的爱 
+2014-08-04 11:49:42,060 - INFO - Name in 58921: 阿凡达
+2014-08-04 11:49:43,065 - INFO - Name in douban 阿凡达 
+2014-08-04 11:49:43,122 - INFO - Name in 58921: 让子弹飞
+2014-08-04 11:49:43,908 - INFO - Name in douban 让子弹飞 
+2014-08-04 11:49:43,970 - INFO - Name in 58921: 唐山大地震
+2014-08-04 11:49:44,537 - INFO - Name in douban 唐山大地震 
+2014-08-04 11:49:44,595 - INFO - Name in 58921: 非诚勿扰2
+2014-08-04 11:49:45,091 - INFO - Name in douban 非诚勿扰 
+2014-08-04 11:49:45,148 - INFO - Name in 58921: 盗梦空间
+2014-08-04 11:49:46,107 - INFO - Name in douban 盗梦空间 
+2014-08-04 11:49:46,169 - INFO - Name in 58921: 狄仁杰之通天帝国
+2014-08-04 11:49:46,835 - INFO - Name in douban 狄仁杰之通天帝国 
+2014-08-04 11:49:46,896 - INFO - Name in 58921: 爱丽丝梦游仙境
+2014-08-04 11:49:47,540 - INFO - Name in douban 爱丽丝梦游仙境 
+2014-08-04 11:49:47,586 - CRITICAL - 爱丽丝梦游仙境  has no release date
+2014-08-04 11:49:47,598 - INFO - Name in 58921: 哈利·波特与死亡圣器（上）
+2014-08-04 11:49:48,690 - INFO - Name in douban 哈利·波特与死亡圣器(上) 
+2014-08-04 11:49:48,754 - INFO - Name in 58921: 叶问2 宗师传奇
+2014-08-04 11:49:49,492 - INFO - Name in douban 叶问2：宗师传奇 
+2014-08-04 11:49:49,548 - INFO - Name in 58921: 敢死队
+2014-08-04 11:49:49,894 - INFO - Name in douban 敢死队3 
+2014-08-04 11:49:49,955 - INFO - Name in 58921: 赵氏孤儿
+2014-08-04 11:49:50,324 - INFO - Name in douban 赵氏孤儿 
+2014-08-04 11:49:50,389 - INFO - Name in 58921: 钢铁侠2
+2014-08-04 11:49:51,303 - INFO - Name in douban 超凡蜘蛛侠2 
+2014-08-04 11:49:51,361 - INFO - Name in 58921: 诸神之战
+2014-08-04 11:49:52,256 - INFO - Name in douban 诸神之战 
+2014-08-04 11:49:52,303 - CRITICAL - 诸神之战  has no release date
+2014-08-04 11:49:52,314 - INFO - Name in 58921: 波斯王子：时之刃
+2014-08-04 11:49:53,009 - INFO - Name in douban 波斯王子：时之刃 
+2014-08-04 11:49:53,055 - CRITICAL - 波斯王子：时之刃  has no release date
+2014-08-04 11:49:53,066 - INFO - Name in 58921: 大笑江湖
+2014-08-04 11:49:53,545 - INFO - Name in douban 大笑江湖 
+2014-08-04 11:49:53,602 - INFO - Name in 58921: 大兵小将
+2014-08-04 11:49:54,254 - INFO - Name in douban 大兵小将 
+2014-08-04 11:49:54,310 - INFO - Name in 58921: 山楂树之恋
+2014-08-04 11:49:54,775 - INFO - Name in douban 山楂树之恋 
+2014-08-04 11:49:54,835 - INFO - Name in 58921: 生化危机4
+2014-08-04 11:49:55,535 - INFO - Name in douban 生化危机4：战神再生 
+2014-08-04 11:49:55,592 - INFO - Name in 58921: 锦衣卫(2010)
+2014-08-04 11:49:56,191 - INFO - Name in douban 锦衣卫 
+2014-08-04 11:49:56,247 - INFO - Name in 58921: 精武风云·陈真
+2014-08-04 11:49:56,692 - INFO - Name in douban 精武风云·陈真 
+2014-08-04 11:49:56,750 - INFO - Name in 58921: 越光宝盒
+2014-08-04 11:49:57,206 - INFO - Name in douban 越光宝盒 
+2014-08-04 11:49:57,266 - INFO - Name in 58921: 全城热恋
+2014-08-04 11:49:57,672 - INFO - Name in douban 全城热恋 
+2014-08-04 11:49:57,738 - INFO - Name in 58921: 喜羊羊与灰太狼2
+2014-08-04 11:49:58,035 - INFO - Name in douban 喜羊羊与灰太狼之飞马奇遇记 
+2014-08-04 11:49:58,091 - INFO - Name in 58921: 杜拉拉升职记
+2014-08-04 11:49:58,652 - INFO - Name in douban 杜拉拉升职记 
+2014-08-04 11:49:58,714 - INFO - Name in 58921: 枪王之王
+2014-08-04 11:49:59,105 - INFO - Name in douban 枪王之王 
+2014-08-04 11:49:59,163 - INFO - Name in 58921: 玩具总动员3
+2014-08-04 11:50:00,126 - INFO - Name in douban 玩具总动员3 
+2014-08-04 11:50:00,184 - INFO - Name in 58921: 孔子
+2014-08-04 11:50:00,650 - INFO - Name in douban 孔子 
+2014-08-04 11:50:00,713 - INFO - Name in 58921: 危情谍战
+2014-08-04 11:50:01,223 - INFO - Name in douban 危情谍战 
+2014-08-04 11:50:01,280 - INFO - Name in 58921: 怪物史莱克4
+2014-08-04 11:50:01,756 - INFO - Name in douban 怪物史瑞克 
+2014-08-04 11:50:01,813 - INFO - Name in 58921: 全城戒备
+2014-08-04 11:50:02,353 - INFO - Name in douban 全城戒备 
+2014-08-04 11:50:02,418 - INFO - Name in 58921: 驯龙高手
+2014-08-04 11:50:03,126 - INFO - Name in douban 驯龙高手2 
+2014-08-04 11:50:03,185 - INFO - Name in 58921: 大侦探福尔摩斯
+2014-08-04 11:50:03,632 - INFO - Name in douban 大侦探福尔摩斯 
+2014-08-04 11:50:03,679 - CRITICAL - 大侦探福尔摩斯  has no release date
+2014-08-04 11:50:03,690 - INFO - Name in 58921: 危情时速
+2014-08-04 11:50:04,342 - INFO - Name in douban 危情时速 
+2014-08-04 11:50:04,405 - INFO - Name in 58921: 剑雨
+2014-08-04 11:50:04,987 - INFO - Name in douban 剑雨 
+2014-08-04 11:50:05,044 - INFO - Name in 58921: 邻家特工
+2014-08-04 11:50:05,750 - INFO - Name in douban 邻家特工 
+2014-08-04 11:50:05,806 - INFO - Name in 58921: 西风烈
+2014-08-04 11:50:06,346 - INFO - Name in douban 西风烈 
+2014-08-04 11:50:06,410 - INFO - Name in 58921: 魔法师的学徒
+2014-08-04 11:50:06,964 - INFO - Name in douban 魔法师的学徒 
+2014-08-04 11:50:07,021 - INFO - Name in 58921: 花田囍事2010
+2014-08-04 11:50:07,946 - INFO - Name in douban 花田喜事2010 
+2014-08-04 11:50:08,000 - INFO - Name in 58921: 未来警察
+2014-08-04 11:50:08,496 - INFO - Name in douban 未来警察 
+2014-08-04 11:50:08,542 - CRITICAL - 未来警察  has no release date
+2014-08-04 11:50:08,553 - INFO - Name in 58921: 恋爱通告
+2014-08-04 11:50:09,043 - INFO - Name in douban 恋爱通告 
+2014-08-04 11:50:09,099 - INFO - Name in 58921: 唐伯虎点秋香2
+2014-08-04 11:50:09,442 - INFO - Name in douban 唐伯虎点秋香 
+2014-08-04 11:50:09,488 - CRITICAL - 唐伯虎点秋香  has no release date
+2014-08-04 11:50:09,499 - INFO - Name in 58921: 苏乞儿(2010)
+2014-08-04 11:50:09,946 - INFO - Name in douban 武状元苏乞儿 
+2014-08-04 11:50:09,992 - CRITICAL - 武状元苏乞儿  has no release date
+2014-08-04 11:50:10,003 - INFO - Name in 58921: 阿黛拉的非凡冒险
+2014-08-04 11:50:10,521 - INFO - Name in douban 阿黛拉的非凡冒险 
+2014-08-04 11:50:10,577 - INFO - Name in 58921: 华尔街2
+2014-08-04 11:50:11,280 - INFO - Name in douban 华尔街之狼 
+2014-08-04 11:50:11,329 - CRITICAL - 华尔街之狼  has no release date
+2014-08-04 11:50:11,341 - INFO - Name in 58921: 线人(2010)
+2014-08-04 11:50:11,941 - INFO - Name in douban 线人 
+2014-08-04 11:50:11,999 - INFO - Name in 58921: 决战刹马镇
+2014-08-04 11:50:12,528 - INFO - Name in douban 决战犹马镇 
+2014-08-04 11:50:12,574 - CRITICAL - 决战犹马镇  has no release date
+2014-08-04 11:50:12,585 - INFO - Name in 58921: 功夫梦
+2014-08-04 11:50:13,249 - INFO - Name in douban 功夫梦 
+2014-08-04 11:50:13,306 - INFO - Name in 58921: 谍海风云
+2014-08-04 11:50:14,044 - INFO - Name in douban 谍海风云 
+2014-08-04 11:50:14,100 - INFO - Name in 58921: 罗宾汉
+2014-08-04 11:50:14,237 - INFO - Name in douban 女罗宾汉 
+2014-08-04 11:50:14,250 - WARNING - http://movie.douban.com/subject/21268267/ got none
+2014-08-04 11:50:14,250 - INFO - Name in 58921: 人在囧途
+2014-08-04 11:50:14,638 - INFO - Name in douban 人在囧途 
+2014-08-04 11:50:14,697 - INFO - Name in 58921: 美丽密令
+2014-08-04 11:50:15,079 - INFO - Name in douban 美丽密令 
+2014-08-04 11:50:15,133 - INFO - Name in 58921: 唐吉可德
+2014-08-04 11:50:15,541 - INFO - Name in douban 魔侠传之唐吉可德 
+2014-08-04 11:50:15,597 - INFO - Name in 58921: 七十二家租客
+2014-08-04 11:50:16,162 - INFO - Name in douban 72家租客 
+2014-08-04 11:50:16,221 - INFO - Name in 58921: 午夜心跳
+2014-08-04 11:50:16,709 - INFO - Name in douban 午夜心跳 
+2014-08-04 11:50:16,763 - INFO - Name in 58921: 猫头鹰王国
+2014-08-04 11:50:17,242 - INFO - Name in douban 猫头鹰王国：守卫者传奇 
+2014-08-04 11:50:17,300 - INFO - Name in 58921: 最后的风之子
+2014-08-04 11:50:17,839 - INFO - Name in douban 最后的风之子 
+2014-08-04 11:50:17,897 - INFO - Name in 58921: 东风雨
+2014-08-04 11:50:18,385 - INFO - Name in douban 东风雨 
+2014-08-04 11:50:18,443 - INFO - Name in 58921: 神火之盗
+2014-08-04 11:50:18,744 - INFO - Name in douban 波西·杰克逊与神火之盗 
+2014-08-04 11:50:18,808 - INFO - Name in 58921: 龙凤店
+2014-08-04 11:50:19,300 - INFO - Name in douban 龙凤店 
+2014-08-04 11:50:19,357 - INFO - Name in 58921: 嘻游记
+2014-08-04 11:50:19,910 - INFO - Name in douban 嘻游记 
+2014-08-04 11:50:19,966 - INFO - Name in 58921: 荒村公寓
+2014-08-04 11:50:20,394 - INFO - Name in douban 荒村公寓 
+2014-08-04 11:50:20,452 - INFO - Name in 58921: 七小罗汉
+2014-08-04 11:50:20,907 - INFO - Name in douban 七小罗汉 
+2014-08-04 11:50:20,962 - INFO - Name in 58921: 密室之不可告人
+2014-08-04 11:50:21,666 - INFO - Name in douban 密室之不可告人 
+2014-08-04 11:50:21,721 - INFO - Name in 58921: 深海探奇
+2014-08-04 11:50:22,130 - INFO - Name in douban 深海探奇 
+2014-08-04 11:50:22,185 - INFO - Name in 58921: 异度公寓
+2014-08-04 11:50:22,621 - INFO - Name in douban 异度公寓 
+2014-08-04 11:50:22,677 - INFO - Name in 58921: 月满轩尼诗
+2014-08-04 11:50:23,199 - INFO - Name in douban 月满轩尼诗 
+2014-08-04 11:50:23,258 - INFO - Name in 58921: 长江七号爱地球
+2014-08-04 11:50:23,680 - INFO - Name in douban 长江七号 
+2014-08-04 11:50:23,738 - INFO - Name in 58921: 无人驾驶
+2014-08-04 11:50:24,205 - INFO - Name in douban 无人驾驶 
+2014-08-04 11:50:24,261 - INFO - Name in 58921: 我的野蛮女友2
+2014-08-04 11:50:24,775 - INFO - Name in douban 我的野蛮女友 
+2014-08-04 11:50:24,834 - INFO - Name in 58921: 火龙对决
+2014-08-04 11:50:25,426 - INFO - Name in douban 火龙对决 
+2014-08-04 11:50:25,481 - INFO - Name in 58921: 岁月神偷
+2014-08-04 11:50:26,269 - INFO - Name in douban 岁月神偷 
+2014-08-04 11:50:26,326 - INFO - Name in 58921: 夺命手机
+2014-08-04 11:50:26,788 - INFO - Name in douban 夺命手机 
+2014-08-04 11:50:26,842 - INFO - Name in 58921: 完美嫁衣
+2014-08-04 11:50:27,414 - INFO - Name in douban 完美嫁衣 
+2014-08-04 11:50:27,470 - INFO - Name in 58921: 特工强档
+2014-08-04 11:50:27,964 - INFO - Name in douban 特工强档 
+2014-08-04 11:50:28,018 - INFO - Name in 58921: 绝命岛
+2014-08-04 11:50:28,766 - INFO - Name in douban 绝命岛 
+2014-08-04 11:50:28,821 - INFO - Name in 58921: 李小龙 我的兄弟
+2014-08-04 11:50:31,109 - INFO - Name in douban 李小龙我的兄弟 
+2014-08-04 11:50:31,168 - INFO - Name in 58921: 海洋天堂
+2014-08-04 11:50:31,842 - INFO - Name in douban 海洋天堂 
+2014-08-04 11:50:31,898 - INFO - Name in 58921: 塔拉星球之战
+2014-08-04 11:50:32,402 - INFO - Name in douban 泰若星球 
+2014-08-04 11:50:32,458 - INFO - Name in 58921: 爱出色
+2014-08-04 11:50:32,961 - INFO - Name in douban 爱出色 
+2014-08-04 11:50:33,018 - INFO - Name in 58921: 叶问前传
+2014-08-04 11:50:33,573 - INFO - Name in douban 叶问前传 
+2014-08-04 11:50:33,620 - CRITICAL - 叶问前传  has no release date
+2014-08-04 11:50:33,631 - INFO - Name in 58921: 孤堡惊情
+2014-08-04 11:50:34,184 - INFO - Name in douban 孤堡惊情 
+2014-08-04 11:50:34,230 - CRITICAL - 孤堡惊情  has no release date
+2014-08-04 11:50:34,241 - INFO - Name in 58921: 80’后
+2014-08-04 11:50:34,736 - INFO - Name in douban 80'后 
+2014-08-04 11:50:34,794 - INFO - Name in 58921: 天地逃生
+2014-08-04 11:50:35,359 - INFO - Name in douban 天地逃生 
+2014-08-04 11:50:35,404 - CRITICAL - 天地逃生  has no release date
+2014-08-04 11:50:35,415 - INFO - Name in 58921: 黑猫警长
+2014-08-04 11:50:35,869 - INFO - Name in douban 黑猫警长电影版 
+2014-08-04 11:50:35,923 - INFO - Name in 58921: 我的美女老板
+2014-08-04 11:50:36,349 - INFO - Name in douban 我的美女老板 
+2014-08-04 11:50:36,413 - INFO - Name in 58921: 翡翠明珠
+2014-08-04 11:50:36,812 - INFO - Name in douban 翡翠明珠 
+2014-08-04 11:50:36,867 - INFO - Name in 58921: 亚瑟和他的迷你王国3
+2014-08-04 11:50:37,574 - INFO - Name in douban 亚瑟和他的迷你王国 
+2014-08-04 11:50:37,618 - CRITICAL - 亚瑟和他的迷你王国  has no release date
+2014-08-04 11:50:37,628 - INFO - Name in 58921: 新康定情歌
+2014-08-04 11:50:38,454 - INFO - Name in douban 康定情歌 
+2014-08-04 11:50:38,509 - INFO - Name in 58921: 鼠来宝：明星俱乐部
+2014-08-04 11:50:39,030 - INFO - Name in douban 鼠来宝：明星俱乐部 
+2014-08-04 11:50:39,088 - INFO - Name in 58921: 举起手来2
+2014-08-04 11:50:39,565 - INFO - Name in douban 举起手来2：追击阿多丸号 
+2014-08-04 11:50:39,618 - INFO - Name in 58921: 等着你回来
+2014-08-04 11:50:40,055 - INFO - Name in douban 等着你回来 
+2014-08-04 11:50:40,110 - INFO - Name in 58921: 查理曼帝国的密码
+2014-08-04 11:50:40,652 - INFO - Name in douban 查理曼大帝密码 
+2014-08-04 11:50:40,707 - INFO - Name in 58921: 特工的特别任务
+2014-08-04 11:50:41,174 - INFO - Name in douban 特工的特别任务 
+2014-08-04 11:50:41,221 - CRITICAL - 特工的特别任务  has no release date
+2014-08-04 11:50:41,232 - INFO - Name in 58921: K20变相黑侠
+2014-08-04 11:50:41,665 - INFO - Name in douban 变相黑侠 
+2014-08-04 11:50:41,721 - INFO - Name in 58921: 黑色闪电
+2014-08-04 11:50:42,193 - INFO - Name in douban 黑色闪电 
+2014-08-04 11:50:42,249 - INFO - Name in 58921: 大玩家
+2014-08-04 11:50:42,777 - INFO - Name in douban 大玩家 
+2014-08-04 11:50:42,832 - INFO - Name in 58921: 三笑之才子佳人
+2014-08-04 11:50:43,436 - INFO - Name in douban 三笑之才子佳人 
+2014-08-04 11:50:43,493 - INFO - Name in 58921: 超蛙战士之初露锋芒
+2014-08-04 11:50:44,413 - INFO - Name in douban 超蛙战士之初露锋芒 
+2014-08-04 11:50:44,467 - INFO - Name in 58921: 出水芙蓉
+2014-08-04 11:50:45,690 - INFO - Name in douban 出水芙蓉 
+2014-08-04 11:50:45,734 - CRITICAL - 出水芙蓉  has no release date
+2014-08-04 11:50:45,744 - INFO - Name in 58921: 不要回头
+2014-08-04 11:50:46,087 - INFO - Name in douban 不要回头 
+2014-08-04 11:50:46,132 - CRITICAL - 不要回头  has no release date
+2014-08-04 11:50:46,143 - INFO - Name in 58921: 火线特攻
+2014-08-04 11:50:46,594 - INFO - Name in douban 火线特攻 
+2014-08-04 11:50:46,650 - INFO - Name in 58921: 一路有你
+2014-08-04 11:50:47,004 - INFO - Name in douban 一路有你 
+2014-08-04 11:50:47,055 - CRITICAL - 一路有你  has no release date
+2014-08-04 11:50:47,068 - INFO - Name in 58921: 古墓迷途
+2014-08-04 11:50:47,714 - INFO - Name in douban 古墓迷途 
+2014-08-04 11:50:47,771 - INFO - Name in 58921: 爱情维修站
+2014-08-04 11:50:48,338 - INFO - Name in douban 爱情维修站 
+2014-08-04 11:50:48,404 - INFO - Name in 58921: 功夫咏春
+2014-08-04 11:50:49,029 - INFO - Name in douban 功夫·咏春 
+2014-08-04 11:50:49,085 - INFO - Name in 58921: 决战豪门
+2014-08-04 11:50:49,584 - INFO - Name in douban 决战豪门 
+2014-08-04 11:50:49,639 - INFO - Name in 58921: 虎王归来
+2014-08-04 11:50:49,925 - INFO - Name in douban 虎王归来 
+2014-08-04 11:50:49,947 - WARNING - http://movie.douban.com/subject/24849943/ got none
+2014-08-04 11:50:49,947 - INFO - Name in 58921: 舞出我人生2
+2014-08-04 11:50:50,266 - INFO - Name in douban 舞出我人生 
+2014-08-04 11:50:50,311 - CRITICAL - 舞出我人生  has no release date
+2014-08-04 11:50:50,321 - INFO - Name in 58921: 爱情36计
+2014-08-04 11:50:50,737 - INFO - Name in douban 爱情36计 
+2014-08-04 11:50:50,792 - INFO - Name in 58921: 跟我的前妻谈恋爱
+2014-08-04 11:50:51,277 - INFO - Name in douban 跟我的前妻谈恋爱 
+2014-08-04 11:50:51,332 - INFO - Name in 58921: 高度怀疑
+2014-08-04 11:50:51,836 - INFO - Name in douban 高度怀疑 
+2014-08-04 11:50:51,893 - INFO - Name in 58921: 摇摆de婚约
+2014-08-04 11:50:52,411 - INFO - Name in douban 摇摆de婚约 
+2014-08-04 11:50:52,467 - INFO - Name in 58921: 亚瑟和他的迷你王国2
+2014-08-04 11:50:52,919 - INFO - Name in douban 亚瑟和他的迷你王国2 
+2014-08-04 11:50:52,973 - INFO - Name in 58921: 活该你单身
+2014-08-04 11:50:53,439 - INFO - Name in douban 活该你单身 
+2014-08-04 11:50:53,495 - INFO - Name in 58921: 庐山恋2010
+2014-08-04 11:50:54,020 - INFO - Name in douban 庐山恋2010 
+2014-08-04 11:50:54,074 - INFO - Name in 58921: 恋人絮语(2010)
+2014-08-04 11:50:54,492 - INFO - Name in douban 恋人絮语 
+2014-08-04 11:50:54,549 - INFO - Name in 58921: 悍将双雄
+2014-08-04 11:50:55,067 - INFO - Name in douban 悍将双雄 
+2014-08-04 11:50:55,111 - CRITICAL - 悍将双雄  has no release date
+2014-08-04 11:50:55,122 - INFO - Name in 58921: 地牢围攻
+2014-08-04 11:50:55,743 - INFO - Name in douban 地牢围攻 
+2014-08-04 11:50:55,799 - INFO - Name in 58921: 铠甲勇士之帝皇侠
+2014-08-04 11:50:56,166 - INFO - Name in douban 铠甲勇士之帝皇侠 
+2014-08-04 11:50:56,229 - INFO - Name in 58921: 前度
+2014-08-04 11:50:56,784 - INFO - Name in douban 前度 
+2014-08-04 11:50:56,828 - CRITICAL - 前度  has no release date
+2014-08-04 11:50:56,840 - INFO - Name in 58921: 绑架冰激凌
+2014-08-04 11:50:57,396 - INFO - Name in douban 绑架冰激凌 
+2014-08-04 11:50:57,451 - INFO - Name in 58921: 终极匹配
+2014-08-04 11:50:57,949 - INFO - Name in douban 终极匹配 
+2014-08-04 11:50:58,005 - INFO - Name in 58921: 孤胆拯救
+2014-08-04 11:50:58,452 - INFO - Name in douban 孤胆拯救 
+2014-08-04 11:50:58,507 - INFO - Name in 58921: 芳心终结者
+2014-08-04 11:50:59,226 - INFO - Name in douban 芳心终结者 
+2014-08-04 11:50:59,281 - INFO - Name in 58921: 志明与春娇
+2014-08-04 11:51:00,070 - INFO - Name in douban 志明与春娇 
+2014-08-04 11:51:00,130 - INFO - Name in 58921: 矮仔多情
+2014-08-04 11:51:00,570 - INFO - Name in douban 矮仔多情 
+2014-08-04 11:51:00,628 - INFO - Name in 58921: 香奈儿秘密情史
+2014-08-04 11:51:01,111 - INFO - Name in douban 时尚先锋香奈儿 
+2014-08-04 11:51:01,156 - CRITICAL - 时尚先锋香奈儿  has no release date
+2014-08-04 11:51:01,167 - INFO - Name in 58921: 大劫难
+2014-08-04 11:51:01,774 - INFO - Name in douban 大劫难 
+2014-08-04 11:51:01,826 - INFO - Name in 58921: 虹猫蓝兔火凤凰
+2014-08-04 11:51:02,186 - INFO - Name in douban 虹猫蓝兔火凤凰 
+2014-08-04 11:51:02,238 - INFO - Name in 58921: 生死逃亡
+2014-08-04 11:51:02,735 - INFO - Name in douban 生死逃亡 
+2014-08-04 11:51:02,786 - INFO - Name in 58921: 日照重庆
+2014-08-04 11:51:03,220 - INFO - Name in douban 日照重庆 
+2014-08-04 11:51:03,277 - INFO - Name in 58921: 异空危情
+2014-08-04 11:51:03,760 - INFO - Name in douban 异空危情 
+2014-08-04 11:51:03,815 - INFO - Name in 58921: 感染列岛
+2014-08-04 11:51:04,310 - INFO - Name in douban 感染列岛 
+2014-08-04 11:51:04,354 - CRITICAL - 感染列岛  has no release date
+2014-08-04 11:51:04,365 - INFO - Name in 58921: 精舞门2
+2014-08-04 11:51:05,094 - INFO - Name in douban 精舞门2 
+2014-08-04 11:51:05,147 - INFO - Name in 58921: 西游新传
+2014-08-04 11:51:05,485 - INFO - Name in douban 西游新传 
+2014-08-04 11:51:05,525 - INFO - Name in 58921: 北纬31度录像带
+2014-08-04 11:51:06,060 - INFO - Name in douban 北纬31°录像带 
+2014-08-04 11:51:06,130 - INFO - Name in 58921: 老虎都要嫁
+2014-08-04 11:51:06,551 - INFO - Name in douban 老虎都要嫁 
+2014-08-04 11:51:06,733 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-04 12:04:06,383 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-04 12:04:06,470 - INFO - Name in 58921: 2012
+2014-08-04 12:04:07,995 - INFO - Name in douban 晚娘2012(下) 
+2014-08-04 12:04:08,058 - CRITICAL - 晚娘2012(下)  has no release date
+2014-08-04 12:04:08,076 - INFO - Name in 58921: 变形金刚2
+2014-08-04 12:04:09,407 - INFO - Name in douban 变形金刚2 
+2014-08-04 12:04:09,491 - INFO - Name in 58921: 建国大业
+2014-08-04 12:04:11,211 - INFO - Name in douban 建国大业 
+2014-08-04 12:04:11,293 - INFO - Name in 58921: 十月围城
+2014-08-04 12:04:12,216 - INFO - Name in douban 十月围城 
+2014-08-04 12:04:12,297 - INFO - Name in 58921: 三枪拍案惊奇
+2014-08-04 12:04:13,450 - INFO - Name in douban 三枪拍案惊奇 
+2014-08-04 12:04:13,526 - INFO - Name in 58921: 赤壁(下)
+2014-08-04 12:04:14,588 - INFO - Name in douban 赤壁(下) 
+2014-08-04 12:04:14,665 - INFO - Name in 58921: 风声
+2014-08-04 12:04:16,403 - INFO - Name in douban 风声 
+2014-08-04 12:04:16,462 - INFO - Name in 58921: 南京！南京！
+2014-08-04 12:04:17,606 - INFO - Name in douban 南京！南京！ 
+2014-08-04 12:04:17,663 - INFO - Name in 58921: 哈利波特与混血王子
+2014-08-04 12:04:20,169 - INFO - Name in douban 哈利·波特与死亡圣器(下) 
+2014-08-04 12:04:20,240 - INFO - Name in 58921: 冰川时代3
+2014-08-04 12:04:21,046 - INFO - Name in douban 小时代3：刺金时代 
+2014-08-04 12:04:21,104 - INFO - Name in 58921: 特种部队1：眼镜蛇的崛起
+2014-08-04 12:04:21,644 - INFO - Name in douban 特种部队：眼镜蛇的崛起 
+2014-08-04 12:04:21,701 - INFO - Name in 58921: 博物馆奇妙夜2
+2014-08-04 12:04:22,779 - INFO - Name in douban 博物馆奇妙夜 
+2014-08-04 12:04:22,825 - CRITICAL - 博物馆奇妙夜  has no release date
+2014-08-04 12:04:22,837 - INFO - Name in 58921: 终结者2018
+2014-08-04 12:04:23,869 - INFO - Name in douban 终结者2018 
+2014-08-04 12:04:23,919 - CRITICAL - 终结者2018  has no release date
+2014-08-04 12:04:23,930 - INFO - Name in 58921: 疯狂的赛车
+2014-08-04 12:04:24,688 - INFO - Name in douban 疯狂的赛车 
+2014-08-04 12:04:24,747 - INFO - Name in 58921: 游龙戏凤
+2014-08-04 12:04:26,340 - INFO - Name in douban 游龙戏凤 
+2014-08-04 12:04:26,396 - INFO - Name in 58921: 大内密探灵灵狗
+2014-08-04 12:04:27,777 - INFO - Name in douban 大内密探零零发 
+2014-08-04 12:04:27,822 - CRITICAL - 大内密探零零发  has no release date
+2014-08-04 12:04:27,834 - INFO - Name in 58921: 非常完美
+2014-08-04 12:04:29,954 - INFO - Name in douban 非常完美 
+2014-08-04 12:04:30,008 - INFO - Name in 58921: 飞屋环游记
+2014-08-04 12:04:31,691 - INFO - Name in douban 飞屋环游记 
+2014-08-04 12:04:31,748 - INFO - Name in 58921: 窃听风云
+2014-08-04 12:04:33,237 - INFO - Name in douban 窃听风云3 
+2014-08-04 12:04:33,296 - INFO - Name in 58921: 花木兰
+2014-08-04 12:04:34,372 - INFO - Name in douban 花木兰 
+2014-08-04 12:04:34,427 - INFO - Name in 58921: X战警前传：金刚狼
+2014-08-04 12:04:35,310 - INFO - Name in douban X战警：逆转未来 
+2014-08-04 12:04:35,358 - CRITICAL - X战警：逆转未来  has no release date
+2014-08-04 12:04:35,369 - INFO - Name in 58921: 喜羊羊与灰太狼之牛气冲天
+2014-08-04 12:04:36,384 - INFO - Name in douban 喜羊羊与灰太狼之飞马奇遇记 
+2014-08-04 12:04:36,438 - INFO - Name in 58921: 麦兜响当当
+2014-08-04 12:04:37,577 - INFO - Name in douban 麦兜响当当 
+2014-08-04 12:04:37,636 - INFO - Name in 58921: 刺陵
+2014-08-04 12:04:38,317 - INFO - Name in douban 刺陵 
+2014-08-04 12:04:38,374 - INFO - Name in 58921: 动物总动员
+2014-08-04 12:04:39,699 - INFO - Name in douban 动物总动员 
+2014-08-04 12:04:39,754 - INFO - Name in 58921: 七龙珠
+2014-08-04 12:04:41,408 - INFO - Name in douban 七龙珠 
+2014-08-04 12:04:41,463 - INFO - Name in 58921: 风云2
+2014-08-04 12:04:43,441 - INFO - Name in douban 窃听风云2 
+2014-08-04 12:04:43,487 - CRITICAL - 窃听风云2  has no release date
+2014-08-04 12:04:43,499 - INFO - Name in 58921: 星际迷航
+2014-08-04 12:04:45,412 - INFO - Name in douban 星际迷航 
+2014-08-04 12:04:45,470 - INFO - Name in 58921: 玩命快递3
+2014-08-04 12:04:47,571 - INFO - Name in douban 玩命快递3 
+2014-08-04 12:04:47,625 - INFO - Name in 58921: 行动目标希特勒
+2014-08-04 12:04:49,763 - INFO - Name in douban 行动目标希特勒 
+2014-08-04 12:04:49,806 - CRITICAL - 行动目标希特勒  has no release date
+2014-08-04 12:04:49,817 - INFO - Name in 58921: 贫民窟的百万富翁
+2014-08-04 12:04:51,200 - INFO - Name in douban 贫民窟的百万富翁 
+2014-08-04 12:04:51,255 - INFO - Name in 58921: 机器侠
+2014-08-04 12:04:52,856 - INFO - Name in douban 机器侠 
+2014-08-04 12:04:52,911 - INFO - Name in 58921: 就是这样
+2014-08-04 12:04:55,602 - INFO - Name in douban 就是这样 
+2014-08-04 12:04:55,656 - INFO - Name in 58921: 阿童木
+2014-08-04 12:04:57,273 - INFO - Name in douban 阿童木 
+2014-08-04 12:04:57,316 - CRITICAL - 阿童木  has no release date
+2014-08-04 12:04:57,327 - INFO - Name in 58921: 气喘吁吁
+2014-08-04 12:04:58,076 - INFO - Name in douban 气喘吁吁 
+2014-08-04 12:04:58,131 - INFO - Name in 58921: 家有喜事2009
+2014-08-04 12:04:59,248 - INFO - Name in douban 家有喜事 
+2014-08-04 12:04:59,304 - INFO - Name in 58921: 马达加斯加2：逃往非洲
+2014-08-04 12:05:01,074 - INFO - Name in douban 马达加斯加3 
+2014-08-04 12:05:01,120 - CRITICAL - 马达加斯加3  has no release date
+2014-08-04 12:05:01,134 - INFO - Name in 58921: 怪兽大战外星人
+2014-08-04 12:05:02,003 - INFO - Name in douban 我阿媽係外星人2 之怪獸現身 
+2014-08-04 12:05:02,037 - INFO - Name in 58921: 神秘代码
+2014-08-04 12:05:03,278 - INFO - Name in douban 神秘代码 
+2014-08-04 12:05:03,344 - INFO - Name in 58921: 骑劫地下铁
+2014-08-04 12:05:06,260 - INFO - Name in douban 骑劫地下铁 
+2014-08-04 12:05:06,302 - INFO - Name in 58921: 赛车风云
+2014-08-04 12:05:08,660 - INFO - Name in douban 速度与激情4 
+2014-08-04 12:05:08,706 - CRITICAL - 速度与激情4  has no release date
+2014-08-04 12:05:08,717 - INFO - Name in 58921: 豚鼠特攻队
+2014-08-04 12:05:09,783 - INFO - Name in douban 美少女特攻队 
+2014-08-04 12:05:09,840 - INFO - Name in 58921: 东邪西毒:终极版
+2014-08-04 12:05:13,095 - INFO - Name in douban 东邪西毒：终极版 
+2014-08-04 12:05:13,155 - INFO - Name in 58921: 时空穿越者
+2014-08-04 12:05:14,690 - INFO - Name in douban 穿越时空的少女 
+2014-08-04 12:05:14,735 - CRITICAL - 穿越时空的少女  has no release date
+2014-08-04 12:05:14,747 - INFO - Name in 58921: 逃亡鳄鱼岛
+2014-08-04 12:05:16,010 - INFO - Name in douban 逃亡鳄鱼岛 
+2014-08-04 12:05:16,064 - INFO - Name in 58921: 白银帝国
+2014-08-04 12:05:16,820 - INFO - Name in douban 白银帝国 
+2014-08-04 12:05:16,883 - INFO - Name in 58921: 超级女特工
+2014-08-04 12:05:18,280 - INFO - Name in douban 超级女特工 
+2014-08-04 12:05:18,336 - INFO - Name in 58921: 奇异家族
+2014-08-04 12:05:19,269 - INFO - Name in douban 神秘世界历险记2 
+2014-08-04 12:05:19,304 - INFO - Name in 58921: 倔强萝卜
+2014-08-04 12:05:20,776 - INFO - Name in douban 倔强萝卜 
+2014-08-04 12:05:20,830 - INFO - Name in 58921: 海角七号
+2014-08-04 12:05:23,054 - INFO - Name in douban 海角七号 
+2014-08-04 12:05:23,112 - INFO - Name in 58921: 窈窕绅士
+2014-08-04 12:05:25,146 - INFO - Name in douban 窈窕绅士 
+2014-08-04 12:05:25,200 - INFO - Name in 58921: 铁人
+2014-08-04 12:05:26,389 - INFO - Name in douban 钢铁侠3 
+2014-08-04 12:05:26,450 - INFO - Name in 58921: 熊猫大侠
+2014-08-04 12:05:29,704 - INFO - Name in douban 熊猫大侠 
+2014-08-04 12:05:29,759 - INFO - Name in 58921: 孤胆义侠
+2014-08-04 12:05:30,702 - INFO - Name in douban 孤胆义侠 
+2014-08-04 12:05:30,756 - INFO - Name in 58921: 爱得起
+2014-08-04 12:05:32,074 - INFO - Name in douban 爱得起 
+2014-08-04 12:05:32,128 - INFO - Name in 58921: 金钱帝国
+2014-08-04 12:05:33,922 - INFO - Name in douban 金钱帝国 
+2014-08-04 12:05:33,965 - CRITICAL - 金钱帝国  has no release date
+2014-08-04 12:05:33,976 - INFO - Name in 58921: 黑皮书
+2014-08-04 12:05:35,431 - INFO - Name in douban 黑皮书 
+2014-08-04 12:05:35,492 - INFO - Name in 58921: 国家要案
+2014-08-04 12:05:37,029 - INFO - Name in douban 国家要案 
+2014-08-04 12:05:37,072 - CRITICAL - 国家要案  has no release date
+2014-08-04 12:05:37,083 - INFO - Name in 58921: 扑克王
+2014-08-04 12:05:38,340 - INFO - Name in douban 扑克王 
+2014-08-04 12:05:38,395 - INFO - Name in 58921: 澳洲乱世情
+2014-08-04 12:05:39,262 - INFO - Name in douban 澳洲乱世情 
+2014-08-04 12:05:39,319 - INFO - Name in 58921: 寻找成龙
+2014-08-04 12:05:39,383 - WARNING - http://movie.douban.com/subject/3737278/ got none
+2014-08-04 12:05:39,383 - INFO - Name in 58921: 高考1977
+2014-08-04 12:05:41,010 - INFO - Name in douban 高考1977 
+2014-08-04 12:05:41,062 - INFO - Name in 58921: 护宝娇娃
+2014-08-04 12:05:42,246 - INFO - Name in douban 护宝娇娃 
+2014-08-04 12:05:42,299 - INFO - Name in 58921: 高兴
+2014-08-04 12:05:44,032 - INFO - Name in douban 没头脑和不高兴 
+2014-08-04 12:05:44,083 - INFO - Name in 58921: 非常主播
+2014-08-04 12:05:45,815 - INFO - Name in douban 非常主播 
+2014-08-04 12:05:45,881 - INFO - Name in 58921: 午夜出租车
+2014-08-04 12:05:46,521 - INFO - Name in douban 午夜出租车 
+2014-08-04 12:05:46,552 - INFO - Name in 58921: 第九区
+2014-08-04 12:05:47,995 - INFO - Name in douban 第九区 
+2014-08-04 12:05:48,052 - INFO - Name in 58921: 追影
+2014-08-04 12:05:48,977 - INFO - Name in douban 追影 
+2014-08-04 12:05:49,032 - INFO - Name in 58921: 特工008
+2014-08-04 12:05:50,355 - INFO - Name in douban 特工008 
+2014-08-04 12:05:50,416 - INFO - Name in 58921: 夜·店
+2014-08-04 12:05:51,219 - INFO - Name in douban 夜·店 
+2014-08-04 12:05:51,275 - INFO - Name in 58921: 暮光之城：暮色
+2014-08-04 12:05:52,370 - INFO - Name in douban 暮光之城4：破晓(下) 
+2014-08-04 12:05:52,417 - CRITICAL - 暮光之城4：破晓(下)  has no release date
+2014-08-04 12:05:52,429 - INFO - Name in 58921: 斗牛
+2014-08-04 12:05:54,136 - INFO - Name in douban 斗牛 
+2014-08-04 12:05:54,192 - INFO - Name in 58921: 狼灾记
+2014-08-04 12:05:55,553 - INFO - Name in douban 狼灾记 
+2014-08-04 12:05:55,608 - INFO - Name in 58921: 沂蒙六姐妹
+2014-08-04 12:05:56,624 - INFO - Name in douban 沂蒙六姐妹 
+2014-08-04 12:05:56,679 - INFO - Name in 58921: 伯纳德行动
+2014-08-04 12:05:57,732 - INFO - Name in douban 伯纳德行动 
+2014-08-04 12:05:57,785 - INFO - Name in 58921: 熊猫回家路
+2014-08-04 12:05:58,798 - INFO - Name in douban 熊猫回家路 
+2014-08-04 12:05:58,851 - INFO - Name in 58921: 麦田
+2014-08-04 12:05:59,743 - INFO - Name in douban 麦田 
+2014-08-04 12:05:59,798 - INFO - Name in 58921: 一夜迷情
+2014-08-04 12:06:00,641 - INFO - Name in douban 一夜迷情 
+2014-08-04 12:06:00,696 - INFO - Name in 58921: 火星没事
+2014-08-04 12:06:02,490 - INFO - Name in douban 火星没事 
+2014-08-04 12:06:02,543 - INFO - Name in 58921: 拉贝日记
+2014-08-04 12:06:03,340 - INFO - Name in douban 拉贝日记 
+2014-08-04 12:06:03,397 - INFO - Name in 58921: 海云台
+2014-08-04 12:06:04,198 - INFO - Name in douban 海云台 
+2014-08-04 12:06:04,242 - CRITICAL - 海云台  has no release date
+2014-08-04 12:06:04,253 - INFO - Name in 58921: 红河
+2014-08-04 12:06:05,112 - INFO - Name in douban 红河 
+2014-08-04 12:06:05,159 - INFO - Name in 58921: 名侦探柯南：漆黑的追迹者
+2014-08-04 12:06:06,222 - INFO - Name in douban 名侦探柯南：漆黑的追踪者 
+2014-08-04 12:06:06,277 - INFO - Name in 58921: 马兰花
+2014-08-04 12:06:07,558 - INFO - Name in douban 马兰花 
+2014-08-04 12:06:07,611 - INFO - Name in 58921: 恋爱前规则
+2014-08-04 12:06:09,072 - INFO - Name in douban 恋爱前规则 
+2014-08-04 12:06:09,129 - INFO - Name in 58921: 完美新娘
+2014-08-04 12:06:10,404 - INFO - Name in douban 完美新娘 
+2014-08-04 12:06:10,456 - INFO - Name in 58921: 机动部队-同袍
+2014-08-04 12:06:11,605 - INFO - Name in douban 机动部队—同袍 
+2014-08-04 12:06:11,659 - INFO - Name in 58921: 哆啦A梦：大雄与绿巨人传
+2014-08-04 12:06:13,523 - INFO - Name in douban 哆啦A梦08剧场版：大雄与绿巨人传 
+2014-08-04 12:06:13,577 - INFO - Name in 58921: 惊天动地
+2014-08-04 12:06:14,615 - INFO - Name in douban 空中监狱 
+2014-08-04 12:06:14,659 - CRITICAL - 空中监狱  has no release date
+2014-08-04 12:06:14,670 - INFO - Name in 58921: 爱有来生
+2014-08-04 12:06:16,109 - INFO - Name in douban 爱有来生 
+2014-08-04 12:06:16,164 - INFO - Name in 58921: 仙境之桥
+2014-08-04 12:06:17,799 - INFO - Name in douban 仙境之桥 
+2014-08-04 12:06:17,858 - INFO - Name in 58921: 秋喜
+2014-08-04 12:06:19,424 - INFO - Name in douban 秋喜 
+2014-08-04 12:06:19,480 - INFO - Name in 58921: 真爱之吻
+2014-08-04 12:06:21,458 - INFO - Name in douban 真爱之吻 
+2014-08-04 12:06:21,503 - CRITICAL - 真爱之吻  has no release date
+2014-08-04 12:06:21,514 - INFO - Name in 58921: 齐天大圣前传
+2014-08-04 12:06:23,300 - INFO - Name in douban 齐天大圣前传 
+2014-08-04 12:06:23,362 - INFO - Name in 58921: 十个约定
+2014-08-04 12:06:24,907 - INFO - Name in douban 狗狗与我的十个约定 
+2014-08-04 12:06:24,962 - INFO - Name in 58921: 神兵小将
+2014-08-04 12:06:25,691 - INFO - Name in douban 神兵小将 
+2014-08-04 12:06:25,742 - INFO - Name in 58921: 隋朝来客
+2014-08-04 12:06:27,505 - INFO - Name in douban 隋朝来客 
+2014-08-04 12:06:27,558 - INFO - Name in 58921: 第一军规
+2014-08-04 12:06:28,244 - INFO - Name in douban 第一军规 
+2014-08-04 12:06:28,275 - INFO - Name in 58921: 保持爱你
+2014-08-04 12:06:29,342 - INFO - Name in douban 保持爱你 
+2014-08-04 12:06:29,398 - INFO - Name in 58921: 袁崇焕
+2014-08-04 12:06:30,225 - INFO - Name in douban 袁崇焕 
+2014-08-04 12:06:30,269 - INFO - Name in 58921: 超能少年之烈维塔任务
+2014-08-04 12:06:32,135 - INFO - Name in douban 超能少年之烈维塔任务 
+2014-08-04 12:06:32,195 - INFO - Name in 58921: 亲密
+2014-08-04 12:06:33,454 - INFO - Name in douban 亲密 
+2014-08-04 12:06:33,507 - INFO - Name in 58921: 乐火男孩
+2014-08-04 12:06:35,290 - INFO - Name in douban 乐火男孩 
+2014-08-04 12:06:35,343 - INFO - Name in 58921: 战无双
+2014-08-04 12:06:36,638 - INFO - Name in douban 战·无双 
+2014-08-04 12:06:36,692 - INFO - Name in 58921: 我的唐朝兄弟
+2014-08-04 12:06:37,529 - INFO - Name in douban 我的兄弟情人 
+2014-08-04 12:06:37,568 - CRITICAL - 我的兄弟情人  has no release date
+2014-08-04 12:06:37,578 - INFO - Name in 58921: 麋鹿王
+2014-08-04 12:06:38,599 - INFO - Name in douban 麋鹿王 
+2014-08-04 12:06:38,657 - INFO - Name in 58921: 回路
+2014-08-04 12:06:39,250 - INFO - Name in douban 回路人生 
+2014-08-04 12:06:39,301 - CRITICAL - 回路人生  has no release date
+2014-08-04 12:06:39,314 - INFO - Name in 58921: 台北飘雪
+2014-08-04 12:06:41,425 - INFO - Name in douban 台北飘雪 
+2014-08-04 12:06:41,479 - INFO - Name in 58921: 七天爱上你
+2014-08-04 12:06:42,578 - INFO - Name in douban 七天爱上你 
+2014-08-04 12:06:42,630 - INFO - Name in 58921: 欠我十万零五千
+2014-08-04 12:06:43,803 - INFO - Name in douban 欠我十万零五千 
+2014-08-04 12:06:43,868 - INFO - Name in 58921: 夜玫瑰
+2014-08-04 12:06:44,455 - INFO - Name in douban 夜玫瑰 
+2014-08-04 12:06:44,509 - INFO - Name in 58921: 精灵女孩小卓玛
+2014-08-04 12:06:45,679 - INFO - Name in douban 精灵女孩小卓玛 
+2014-08-04 12:06:45,714 - INFO - Name in 58921: 男生贾里新传
+2014-08-04 12:06:48,017 - INFO - Name in douban 男生贾里新传 
+2014-08-04 12:06:48,069 - INFO - Name in 58921: 我的女友是机器人
+2014-08-04 12:06:49,390 - INFO - Name in douban 我的播音系女友 
+2014-08-04 12:06:49,445 - INFO - Name in 58921: 二十四城记
+2014-08-04 12:06:50,215 - INFO - Name in douban 二十四城记 
+2014-08-04 12:06:50,271 - INFO - Name in 58921: 天下第一串
+2014-08-04 12:06:50,668 - INFO - Name in douban 天下第一串 
+2014-08-04 12:06:50,704 - INFO - Name in 58921: 玛丽和幼犬的故事
+2014-08-04 12:06:51,909 - INFO - Name in douban 爱犬的奇迹 
+2014-08-04 12:06:51,963 - INFO - Name in 58921: 谁主名花
+2014-08-04 12:06:53,684 - INFO - Name in douban 替身演员 
+2014-08-04 12:06:53,741 - INFO - Name in 58921: 跳出去
+2014-08-04 12:06:55,119 - INFO - Name in douban 跳出去 
+2014-08-04 12:06:55,174 - INFO - Name in 58921: 爱情故事
+2014-08-04 12:06:56,010 - INFO - Name in douban 北京爱情故事 
+2014-08-04 12:06:56,067 - INFO - Name in 58921: 盗版猫
+2014-08-04 12:06:57,011 - INFO - Name in douban 盗版猫 
+2014-08-04 12:06:57,067 - INFO - Name in 58921: 堂吉诃德外传
+2014-08-04 12:06:58,748 - INFO - Name in douban 堂吉诃德外传 
+2014-08-04 12:06:58,801 - INFO - Name in 58921: 声梦奇缘
+2014-08-04 12:06:59,989 - INFO - Name in douban 八月迷情 
+2014-08-04 12:07:00,044 - INFO - Name in 58921: 袁隆平
+2014-08-04 12:07:01,219 - INFO - Name in douban 袁隆平 
+2014-08-04 12:07:01,262 - INFO - Name in 58921: 喊过岭的故事
+2014-08-04 12:07:02,204 - INFO - Name in douban 喊过岭的故事 
+2014-08-04 12:07:02,243 - INFO - Name in 58921: 车票
+2014-08-04 12:07:03,143 - INFO - Name in douban 车票 
+2014-08-04 12:07:03,196 - INFO - Name in 58921: 寻找尘微
+2014-08-04 12:07:03,196 - INFO - Name in 58921: 羊肉泡馍麻辣烫
+2014-08-04 12:07:04,590 - INFO - Name in douban 羊肉泡馍麻辣烫 
+
+2014-08-05 09:17:10,114 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 09:17:51,196 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 09:17:53,966 - INFO - Name in 58921: 画皮1  Name in douban: 画皮
+2014-08-05 09:17:55,499 - CRITICAL - 功夫之王 has no release date
+2014-08-05 09:18:40,873 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 09:18:43,314 - INFO - Name in 58921: 画皮1  Name in douban: 画皮
+2014-08-05 09:18:45,153 - CRITICAL - 功夫之王 has no release date
+2014-08-05 09:26:44,267 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 09:26:46,752 - INFO - Name in 58921: 画皮1  Name in douban: 画皮
+2014-08-05 09:26:47,982 - CRITICAL - 功夫之王 has no release date
+2014-08-05 09:26:48,700 - CRITICAL - 功夫熊猫 has no release date
+2014-08-05 09:26:49,501 - INFO - Name in 58921: 007大破量子危机  Name in douban: 007：大破量子危机
+2014-08-05 09:26:51,566 - CRITICAL - 木乃伊3 has no release date
+2014-08-05 09:26:51,576 - INFO - Name in 58921: 木乃伊3：龙帝之墓  Name in douban: 木乃伊3
+2014-08-05 09:26:52,369 - CRITICAL - 全民超人汉考克 has no release date
+2014-08-05 09:26:53,185 - CRITICAL - 叶问 has no release date
+2014-08-05 09:26:54,840 - CRITICAL - 纳尼亚传奇2：凯斯宾王子 has no release date
+2014-08-05 09:26:56,988 - CRITICAL - 国家宝藏：夺宝秘笈 has no release date
+2014-08-05 09:26:57,000 - WARNING - 地心历险记（3D）: htthttp://movie.douban.com/subject/2037833/ got none
+2014-08-05 09:26:58,846 - CRITICAL - 闪电狗 has no release date
+2014-08-05 09:26:59,753 - CRITICAL - 保持通话 has no release date
+2014-08-05 09:27:00,339 - INFO - Name in 58921: 江山美人(2008)  Name in douban: 江山美人
+2014-08-05 09:27:01,208 - WARNING - 水啸雾都: http://movie.douban.com/subject/2297877/ release date may be wrong
+2014-08-05 09:27:01,831 - INFO - Name in 58921: 爱呼2：爱情左右  Name in douban: 爱情呼叫转移Ⅱ：爱情左右
+2014-08-05 09:27:02,682 - CRITICAL - 黄金罗盘 has no release date
+2014-08-05 09:27:02,952 - INFO - Name in 58921: 龙之战  Name in douban: 封神演义系列·龙之战

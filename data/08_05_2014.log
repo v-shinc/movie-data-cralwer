@@ -1,0 +1,11 @@
+2014-08-05 11:48:30,515 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 11:48:41,994 - INFO - Name in 58921: 霍比特人：史矛革之战  Name in douban: 霍比特人2：史矛革之战
+2014-08-05 11:48:53,519 - INFO - Name in 58921: 重生之门  Name in douban: 冰封：重生之门
+2014-08-05 11:49:03,136 - INFO - Name in 58921: 老男孩之猛龙过江  Name in douban: 老男孩猛龙过江
+2014-08-05 11:49:23,532 - INFO - Name in 58921: 洛克王国3之圣龙的守护  Name in douban: 洛克王国3：圣龙的守护
+2014-08-05 11:50:06,009 - INFO - Name in 58921: Q版三国之三小强  Name in douban: 三小强
+2014-08-05 11:50:12,990 - INFO - Name in 58921: 我是狼  Name in douban: 我是狼之火龙山大冒险
+2014-08-05 11:50:13,619 - INFO - Name in 58921: 林中小屋(2014中国版)  Name in douban: 林中小屋
+2014-08-05 11:50:13,620 - WARNING - 林中小屋(2014中国版): http://movie.douban.com/subject/3143676/ release date may be wrong
+2014-08-05 11:50:21,692 - WARNING - 命运派对: http://movie.douban.com/subject/25758005/ release date may be wrong
+2014-08-05 11:50:24,831 - INFO - END LOGGING FROM douban_movie_crawler.py

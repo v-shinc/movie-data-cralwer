@@ -1,0 +1,50 @@
+2014-08-05 11:59:25,569 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 11:59:27,406 - INFO - Name in 58921: 泰坦尼克号3D版  Name in douban: 泰坦尼克号 3D版
+2014-08-05 11:59:29,580 - INFO - Name in 58921: 画皮II  Name in douban: 画皮2
+2014-08-05 11:59:30,456 - INFO - Name in 58921: 碟中谍4：幽灵协议  Name in douban: 碟中谍4
+2014-08-05 11:59:36,510 - INFO - Name in 58921: 一九四二(冯小刚)  Name in douban: 一九四二
+2014-08-05 11:59:38,858 - INFO - Name in 58921: 超凡蜘蛛侠  Name in douban: 超凡蜘蛛侠2
+2014-08-05 11:59:38,858 - WARNING - 超凡蜘蛛侠: http://movie.douban.com/subject/6082518/ release date may be wrong
+2014-08-05 11:59:40,402 - INFO - Name in 58921: 异星战场：约翰・卡特传奇  Name in douban: 异星战场
+2014-08-05 11:59:56,139 - INFO - Name in 58921: 太极1从零开始  Name in douban: 太极1：从零开始
+2014-08-05 11:59:58,147 - INFO - Name in 58921: 爱LOVE  Name in douban: 爱
+2014-08-05 11:59:58,811 - INFO - Name in 58921: 2012(3D版)  Name in douban: 2012
+2014-08-05 12:00:03,653 - INFO - Name in 58921: 全面回忆(2012)  Name in douban: 全面回忆
+2014-08-05 12:00:07,315 - INFO - Name in 58921: 机械师(2011)  Name in douban: 机械师
+2014-08-05 12:00:14,799 - INFO - Name in 58921: 那些年，我们一起追过的女孩  Name in douban: 那些年，我们一起追的女孩
+2014-08-05 12:00:15,700 - INFO - Name in 58921: 血滴子(2012)  Name in douban: 血滴子
+2014-08-05 12:00:20,315 - INFO - Name in 58921: 晚秋(2012)  Name in douban: 晚秋
+2014-08-05 12:00:21,864 - INFO - Name in 58921: 危险关系(2012)  Name in douban: 危险关系
+2014-08-05 12:00:22,907 - INFO - Name in 58921: 笔仙1  Name in douban: 笔仙
+2014-08-05 12:00:26,148 - INFO - Name in 58921: 新天生一对(2012)  Name in douban: 新天生一对
+2014-08-05 12:00:31,389 - INFO - Name in 58921: Hold住爱  Name in douban: HOLD住爱
+2014-08-05 12:00:34,654 - INFO - Name in 58921: 三个火枪手(2011)  Name in douban: 三个火枪手
+2014-08-05 12:00:37,730 - WARNING - 亲密敌人: http://movie.douban.com/subject/6062731/ release date may be wrong
+2014-08-05 12:00:40,225 - INFO - Name in 58921: 赛尔号2:赛尔号之雷伊与迈尔斯  Name in douban: 赛尔号大电影2之雷伊与迈尔斯
+2014-08-05 12:00:41,413 - INFO - Name in 58921: 第一次(2012)  Name in douban: 第一次
+2014-08-05 12:00:43,970 - INFO - Name in 58921: 暮光之城：破晓（上）  Name in douban: 暮光之城4：破晓(下)
+2014-08-05 12:00:50,150 - WARNING - 胡桃夹子: http://movie.douban.com/subject/4149231/ release date may be wrong
+2014-08-05 12:00:51,869 - INFO - Name in 58921: 萨米大冒险(2010)  Name in douban: 萨米大冒险
+2014-08-05 12:00:55,461 - INFO - Name in 58921: 非常小特务4  Name in douban: 非常小特工之时间大盗
+2014-08-05 12:01:10,121 - INFO - Name in 58921: 黑衣女人(2012)  Name in douban: 黑衣女人
+2014-08-05 12:01:14,044 - INFO - Name in 58921: 赛德克・巴莱  Name in douban: 赛德克·巴莱
+2014-08-05 12:01:17,682 - INFO - Name in 58921: 迈阿密行动R.T.T.  Name in douban: 迈阿密行动
+2014-08-05 12:01:18,425 - WARNING - 深度谜案: http://movie.douban.com/subject/1950192/ release date may be wrong
+2014-08-05 12:01:25,321 - WARNING - 极速天使: http://movie.douban.com/subject/5256418/ release date may be wrong
+2014-08-05 12:01:27,198 - INFO - Name in 58921: 安娜·卡列尼娜(2012)  Name in douban: 安娜·卡列尼娜
+2014-08-05 12:01:36,819 - INFO - Name in 58921: 天生爱情狂(2012)  Name in douban: 天生爱情狂
+2014-08-05 12:01:37,639 - WARNING - 梦宅诡影: http://movie.douban.com/subject/3818565/ release date may be wrong
+2014-08-05 12:01:41,597 - INFO - Name in 58921: 夺宝幸运星大电影之金箍棒传奇  Name in douban: 金箍棒传奇
+2014-08-05 12:01:45,411 - INFO - Name in 58921: 目击者(2012)  Name in douban: 目击者
+2014-08-05 12:01:49,268 - WARNING - 倾城之泪: http://movie.douban.com/subject/6738760/ release date may be wrong
+2014-08-05 12:01:49,908 - INFO - Name in 58921: 变身男女 (2012)  Name in douban: 变身男女
+2014-08-05 12:01:57,190 - INFO - Name in 58921: 地下室惊魂(2012)  Name in douban: 地下室惊魂
+2014-08-05 12:01:58,310 - INFO - Name in 58921: 无间罪  Name in douban: 无间罪：僵尸重生
+2014-08-05 12:02:00,167 - WARNING - 新龙门客栈: http://movie.douban.com/subject/1292287/ release date may be wrong
+2014-08-05 12:02:02,706 - INFO - Name in 58921: 秘密花园(2012)  Name in douban: 秘密花园
+2014-08-05 12:02:10,501 - INFO - Name in 58921: 乐翻天(2012)  Name in douban: 乐翻天
+2014-08-05 12:02:14,886 - WARNING - 爆笑角斗士: http://movie.douban.com/subject/6534064/ release date may be wrong
+2014-08-05 12:02:21,963 - INFO - Name in 58921: 一次离别  Name in douban: 一次别离
+2014-08-05 12:02:23,966 - INFO - Name in 58921: 饮食男女2012  Name in douban: 饮食男女-好远又好近
+2014-08-05 12:02:24,521 - INFO - Name in 58921: 玩命·时光  Name in douban: 玩命时光
+2014-08-05 12:02:32,725 - INFO - END LOGGING FROM douban_movie_crawler.py

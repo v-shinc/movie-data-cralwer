@@ -1,0 +1,46 @@
+2014-08-08 19:57:40,159 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-08 19:57:40,339 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:15:15,665 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:15:15,802 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:16:55,420 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:16:55,572 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:25:09,941 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:25:10,126 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:31:21,469 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-08 20:31:21,609 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 10:35:10,141 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 10:35:10,324 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 11:37:03,397 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 11:37:03,741 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 11:38:12,374 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 11:38:12,719 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:05:03,599 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:05:03,745 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:21:13,513 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:21:13,674 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:29:12,754 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:29:12,913 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:31:15,917 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:31:16,070 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:52:18,453 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 14:53:36,238 - INFO - Name in 58921: 一个温州的女人  Name in douban: 一个陌生女人的来信
+2014-08-15 14:53:36,238 - WARNING - 一个温州的女人: http://movie.douban.com/subject/1308799/ release date may be wrong
+2014-08-15 14:53:45,320 - WARNING - 命运派对: http://movie.douban.com/subject/25758005/ release date may be wrong
+2014-08-15 14:55:34,293 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 15:26:32,573 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 15:26:32,731 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 15:52:03,355 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 15:52:51,976 - INFO - Name in 58921: 秦时明月大电影之龙腾万里  Name in douban: 秦时明月之龙腾万里
+2014-08-15 15:53:04,052 - INFO - Name in 58921: 我是狼  Name in douban: 我是狼之火龙山大冒险
+2014-08-15 15:53:04,214 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 16:48:47,526 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 16:49:03,988 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 17:02:21,898 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 17:03:15,220 - INFO - Name in 58921: 一个温州的女人  Name in douban: 一个陌生女人的来信
+2014-08-15 17:03:15,220 - WARNING - 一个温州的女人: http://movie.douban.com/subject/1308799/ release date may be wrong
+2014-08-15 17:03:27,850 - WARNING - 命运派对: http://movie.douban.com/subject/25758005/ release date may be wrong
+2014-08-15 17:04:11,974 - INFO - END LOGGING FROM douban_movie_crawler.py
+2014-08-15 17:32:02,305 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-15 17:32:50,145 - INFO - Name in 58921: 秦时明月大电影之龙腾万里  Name in douban: 秦时明月之龙腾万里
+2014-08-15 17:33:01,754 - INFO - Name in 58921: 我是狼  Name in douban: 我是狼之火龙山大冒险
+2014-08-15 17:33:01,894 - INFO - END LOGGING FROM douban_movie_crawler.py

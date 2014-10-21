@@ -1,0 +1,35 @@
+2014-08-05 12:24:08,114 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 12:24:13,387 - INFO - Name in 58921: 加勒比海盗4  Name in douban: 加勒比海盗4：惊涛怪浪
+2014-08-05 12:24:14,861 - INFO - Name in 58921: 哈利波特与死亡圣器(下)  Name in douban: 哈利·波特与死亡圣器(下)
+2014-08-05 12:24:14,892 - WARNING - 建党伟业: http://movie.douban.com/subject/4073898/ got none
+2014-08-05 12:24:21,556 - INFO - Name in 58921: 白蛇传说(2011)  Name in douban: 白蛇传说
+2014-08-05 12:24:22,017 - INFO - Name in 58921: 猩球崛起  Name in douban: 猩球崛起2：黎明之战
+2014-08-05 12:24:22,017 - WARNING - 猩球崛起: http://movie.douban.com/subject/7046723/ release date may be wrong
+2014-08-05 12:24:26,517 - INFO - Name in 58921: 最强囍事2011  Name in douban: 最强囍事
+2014-08-05 12:24:28,052 - INFO - Name in 58921: 鸿门宴  Name in douban: 鸿门宴传奇
+2014-08-05 12:24:29,210 - INFO - Name in 58921: 喜羊羊与灰太狼3  Name in douban: 喜羊羊与灰太狼之飞马奇遇记
+2014-08-05 12:24:29,210 - WARNING - 喜羊羊与灰太狼3: http://movie.douban.com/subject/24751765/ release date may be wrong
+2014-08-05 12:24:31,359 - INFO - Name in 58921: 倩女幽魂(2011)  Name in douban: 倩女幽魂
+2014-08-05 12:24:35,030 - INFO - Name in 58921: 纳尼亚传奇3  Name in douban: 纳尼亚传奇3：黎明踏浪号
+2014-08-05 12:24:57,440 - INFO - Name in 58921: 永无止境(2011)  Name in douban: 永无止境
+2014-08-05 12:25:02,451 - INFO - Name in 58921: 赛尔号之寻找凤凰神兽  Name in douban: 赛尔号大电影之寻找凤凰神兽
+2014-08-05 12:25:06,347 - INFO - Name in 58921: 洛克王国！圣龙骑士  Name in douban: 洛克王国3：圣龙的守护
+2014-08-05 12:25:06,347 - WARNING - 洛克王国！圣龙骑士: http://movie.douban.com/subject/25895278/ release date may be wrong
+2014-08-05 12:25:11,272 - INFO - Name in 58921: 名侦探柯南2011：沉默的15分钟  Name in douban: 名侦探柯南：沉默的15分钟
+2014-08-05 12:25:12,930 - INFO - Name in 58921: 五月天追梦3DNA  Name in douban: 五月天追梦
+2014-08-05 12:25:14,657 - INFO - Name in 58921: 我爱HK  开心万岁  Name in douban: 我爱HK 开心万岁
+2014-08-05 12:25:16,985 - INFO - Name in 58921: 硬汉2奉陪到底  Name in douban: 硬汉2：奉陪到底
+2014-08-05 12:25:21,776 - INFO - Name in 58921: 深海之战Sector 7   Name in douban: 深海之战
+2014-08-05 12:25:41,004 - WARNING - 爱到底: http://movie.douban.com/subject/3552301/ release date may be wrong
+2014-08-05 12:25:41,815 - INFO - Name in 58921: 梦游(2011)  Name in douban: 梦游
+2014-08-05 12:25:46,607 - INFO - Name in 58921: 双重身份(2011)  Name in douban: 双重身份
+2014-08-05 12:25:47,496 - INFO - Name in 58921: 李献计历险记(2011)  Name in douban: 李献计历险记
+2014-08-05 12:26:08,328 - INFO - Name in 58921: 遍地狼烟(2011)  Name in douban: 遍地狼烟
+2014-08-05 12:26:21,771 - INFO - Name in 58921: 倩女幽魂(1987)  Name in douban: 倩女幽魂
+2014-08-05 12:26:26,155 - INFO - Name in 58921: 嘿・店  Name in douban: 嘿店
+2014-08-05 12:26:29,049 - INFO - Name in 58921: 蔡李佛：极限拳速  Name in douban: 蔡李佛拳
+2014-08-05 12:26:32,722 - INFO - Name in 58921: 艺术家(2011)  Name in douban: 艺术家
+2014-08-05 12:26:32,722 - WARNING - 艺术家(2011): http://movie.douban.com/subject/6097775/ release date may be wrong
+2014-08-05 12:26:46,413 - WARNING - 钢琴木马: http://movie.douban.com/subject/5413785/ release date may be wrong
+2014-08-05 12:26:48,566 - WARNING - 非常营救: http://movie.douban.com/subject/11589786/ release date may be wrong
+2014-08-05 12:26:56,028 - INFO - END LOGGING FROM douban_movie_crawler.py

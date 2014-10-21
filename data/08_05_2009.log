@@ -1,0 +1,77 @@
+2014-08-05 11:42:21,820 - INFO - START LOGGING FROM douban_movie_crawler.py
+2014-08-05 11:42:23,073 - INFO - Name in 58921: 2012  Name in douban: 晚娘2012(下)
+2014-08-05 11:42:23,073 - WARNING - 2012: http://movie.douban.com/subject/20471829/ release date may be wrong
+2014-08-05 11:42:29,545 - INFO - Name in 58921: 哈利波特与混血王子  Name in douban: 哈利·波特与死亡圣器(下)
+2014-08-05 11:42:29,545 - WARNING - 哈利波特与混血王子: http://movie.douban.com/subject/3011235/ release date may be wrong
+2014-08-05 11:42:30,117 - INFO - Name in 58921: 冰川时代3  Name in douban: 小时代3：刺金时代
+2014-08-05 11:42:30,117 - WARNING - 冰川时代3: http://movie.douban.com/subject/24847340/ release date may be wrong
+2014-08-05 11:42:30,838 - INFO - Name in 58921: 特种部队1：眼镜蛇的崛起  Name in douban: 特种部队：眼镜蛇的崛起
+2014-08-05 11:42:32,573 - INFO - Name in 58921: 博物馆奇妙夜2  Name in douban: 博物馆奇妙夜
+2014-08-05 11:42:32,573 - WARNING - 博物馆奇妙夜2: http://movie.douban.com/subject/1835843/ release date may be wrong
+2014-08-05 11:42:35,357 - INFO - Name in 58921: 大内密探灵灵狗  Name in douban: 大内密探零零发
+2014-08-05 11:42:35,357 - WARNING - 大内密探灵灵狗: http://movie.douban.com/subject/1329936/ release date may be wrong
+2014-08-05 11:42:37,807 - INFO - Name in 58921: 窃听风云  Name in douban: 窃听风云3
+2014-08-05 11:42:37,807 - WARNING - 窃听风云: http://movie.douban.com/subject/10726941/ release date may be wrong
+2014-08-05 11:42:39,169 - INFO - Name in 58921: X战警前传：金刚狼  Name in douban: X战警：逆转未来
+2014-08-05 11:42:39,169 - WARNING - X战警前传：金刚狼: http://movie.douban.com/subject/10485647/ release date may be wrong
+2014-08-05 11:42:40,811 - INFO - Name in 58921: 喜羊羊与灰太狼之牛气冲天  Name in douban: 喜羊羊与灰太狼之飞马奇遇记
+2014-08-05 11:42:40,811 - WARNING - 喜羊羊与灰太狼之牛气冲天: http://movie.douban.com/subject/24751765/ release date may be wrong
+2014-08-05 11:42:44,007 - WARNING - 动物总动员: http://movie.douban.com/subject/4902100/ release date may be wrong
+2014-08-05 11:42:45,790 - INFO - Name in 58921: 风云2  Name in douban: 窃听风云2
+2014-08-05 11:42:45,790 - WARNING - 风云2: http://movie.douban.com/subject/5422105/ release date may be wrong
+2014-08-05 11:42:47,322 - WARNING - 玩命快递3: http://movie.douban.com/subject/3018122/ release date may be wrong
+2014-08-05 11:42:48,395 - WARNING - 行动目标希特勒: http://movie.douban.com/subject/2028647/ release date may be wrong
+2014-08-05 11:42:54,626 - INFO - Name in 58921: 家有喜事2009  Name in douban: 家有喜事
+2014-08-05 11:42:54,626 - WARNING - 家有喜事2009: http://movie.douban.com/subject/1300064/ release date may be wrong
+2014-08-05 11:42:55,532 - INFO - Name in 58921: 马达加斯加2：逃往非洲  Name in douban: 马达加斯加3
+2014-08-05 11:42:55,533 - WARNING - 马达加斯加2：逃往非洲: http://movie.douban.com/subject/3178770/ release date may be wrong
+2014-08-05 11:42:55,775 - INFO - Name in 58921: 怪兽大战外星人  Name in douban: 我阿媽係外星人2 之怪獸現身
+2014-08-05 11:42:57,749 - WARNING - 骑劫地下铁: http://movie.douban.com/subject/1293385/ release date may be wrong
+2014-08-05 11:42:58,449 - INFO - Name in 58921: 赛车风云  Name in douban: 速度与激情4
+2014-08-05 11:43:00,138 - INFO - Name in 58921: 豚鼠特攻队  Name in douban: 美少女特攻队
+2014-08-05 11:43:00,138 - WARNING - 豚鼠特攻队: http://movie.douban.com/subject/3262050/ release date may be wrong
+2014-08-05 11:43:01,174 - INFO - Name in 58921: 东邪西毒:终极版  Name in douban: 东邪西毒：终极版
+2014-08-05 11:43:02,118 - INFO - Name in 58921: 时空穿越者  Name in douban: 穿越时空的少女
+2014-08-05 11:43:02,118 - WARNING - 时空穿越者: http://movie.douban.com/subject/1937946/ release date may be wrong
+2014-08-05 11:43:04,243 - WARNING - 超级女特工: http://movie.douban.com/subject/2058735/ release date may be wrong
+2014-08-05 11:43:04,747 - INFO - Name in 58921: 奇异家族  Name in douban: 神秘世界历险记2
+2014-08-05 11:43:04,747 - WARNING - 奇异家族: http://movie.douban.com/subject/21340775/ release date may be wrong
+2014-08-05 11:43:09,023 - INFO - Name in 58921: 铁人  Name in douban: 钢铁侠3
+2014-08-05 11:43:09,023 - WARNING - 铁人: http://movie.douban.com/subject/3231742/ release date may be wrong
+2014-08-05 11:43:10,459 - WARNING - 孤胆义侠: http://movie.douban.com/subject/1418770/ release date may be wrong
+2014-08-05 11:43:15,336 - WARNING - 寻找成龙: http://movie.douban.com/subject/3737278/ got none
+2014-08-05 11:43:17,216 - INFO - Name in 58921: 高兴  Name in douban: 没头脑和不高兴
+2014-08-05 11:43:17,216 - WARNING - 高兴: http://movie.douban.com/subject/1428578/ release date may be wrong
+2014-08-05 11:43:18,606 - WARNING - 午夜出租车: http://movie.douban.com/subject/4217527/ release date may be wrong
+2014-08-05 11:43:21,226 - WARNING - 特工008: http://movie.douban.com/subject/3293034/ release date may be wrong
+2014-08-05 11:43:22,966 - INFO - Name in 58921: 暮光之城：暮色  Name in douban: 暮光之城4：破晓(下)
+2014-08-05 11:43:22,966 - WARNING - 暮光之城：暮色: http://movie.douban.com/subject/4889554/ release date may be wrong
+2014-08-05 11:43:29,725 - WARNING - 一夜迷情: http://movie.douban.com/subject/3230165/ release date may be wrong
+2014-08-05 11:43:32,273 - WARNING - 红河: http://movie.douban.com/subject/1292565/ release date may be wrong
+2014-08-05 11:43:32,986 - INFO - Name in 58921: 名侦探柯南：漆黑的追迹者  Name in douban: 名侦探柯南：漆黑的追踪者
+2014-08-05 11:43:37,118 - INFO - Name in 58921: 机动部队-同袍  Name in douban: 机动部队—同袍
+2014-08-05 11:43:37,907 - INFO - Name in 58921: 哆啦A梦：大雄与绿巨人传  Name in douban: 哆啦A梦08剧场版：大雄与绿巨人传
+2014-08-05 11:43:37,907 - WARNING - 哆啦A梦：大雄与绿巨人传: http://movie.douban.com/subject/2977870/ release date may be wrong
+2014-08-05 11:43:38,744 - INFO - Name in 58921: 惊天动地  Name in douban: 空中监狱
+2014-08-05 11:43:38,744 - WARNING - 惊天动地: http://movie.douban.com/subject/1300618/ release date may be wrong
+2014-08-05 11:43:41,694 - WARNING - 真爱之吻: http://movie.douban.com/subject/1914652/ release date may be wrong
+2014-08-05 11:43:43,682 - INFO - Name in 58921: 十个约定  Name in douban: 狗狗与我的十个约定
+2014-08-05 11:43:50,615 - WARNING - 亲密: http://movie.douban.com/subject/1299348/ release date may be wrong
+2014-08-05 11:43:53,477 - INFO - Name in 58921: 战无双  Name in douban: 战·无双
+2014-08-05 11:43:54,412 - INFO - Name in 58921: 我的唐朝兄弟  Name in douban: 我的兄弟情人
+2014-08-05 11:43:54,412 - WARNING - 我的唐朝兄弟: http://movie.douban.com/subject/24756472/ release date may be wrong
+2014-08-05 11:43:55,834 - INFO - Name in 58921: 回路  Name in douban: 回路人生
+2014-08-05 11:43:55,835 - WARNING - 回路: http://movie.douban.com/subject/20426918/ release date may be wrong
+2014-08-05 11:43:57,496 - WARNING - 台北飘雪: http://movie.douban.com/subject/3632506/ release date may be wrong
+2014-08-05 11:44:02,888 - INFO - Name in 58921: 我的女友是机器人  Name in douban: 我的播音系女友
+2014-08-05 11:44:02,888 - WARNING - 我的女友是机器人: http://movie.douban.com/subject/25841341/ release date may be wrong
+2014-08-05 11:44:04,453 - INFO - Name in 58921: 玛丽和幼犬的故事  Name in douban: 爱犬的奇迹
+2014-08-05 11:44:04,453 - WARNING - 玛丽和幼犬的故事: http://movie.douban.com/subject/2357302/ release date may be wrong
+2014-08-05 11:44:05,385 - INFO - Name in 58921: 谁主名花  Name in douban: 替身演员
+2014-08-05 11:44:05,386 - WARNING - 谁主名花: http://movie.douban.com/subject/3346304/ release date may be wrong
+2014-08-05 11:44:06,597 - INFO - Name in 58921: 爱情故事  Name in douban: 北京爱情故事
+2014-08-05 11:44:06,597 - WARNING - 爱情故事: http://movie.douban.com/subject/24736566/ release date may be wrong
+2014-08-05 11:44:09,151 - WARNING - 堂吉诃德外传: http://movie.douban.com/subject/2024969/ release date may be wrong
+2014-08-05 11:44:09,897 - INFO - Name in 58921: 声梦奇缘  Name in douban: 八月迷情
+2014-08-05 11:44:12,511 - WARNING - 车票: http://movie.douban.com/subject/3290451/ release date may be wrong
+2014-08-05 11:44:13,285 - INFO - END LOGGING FROM douban_movie_crawler.py
