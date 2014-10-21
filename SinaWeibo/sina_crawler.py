@@ -22,7 +22,8 @@ from xlutils.copy import copy
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-
+USERNAME = '' #新浪微博账号
+PASSWORD = '' #密码
 # cookie -&gt; opener -&gt; urllib2.
 # 然后，urllib2的操作相关cookie会存在
 # 所以登陆成功之后，urllib2的操作会带有cookie信息，抓网页不会跳转到登陆页
@@ -156,7 +157,7 @@ def get_search_number(keyword,before7,release):
 
 #输入的excel必须有H列（微博相关数，初始值为-1），
 def get_weibo_index(excel_path):
-    login('18811432203','Woshi456')
+    login(USERNAME,PASSWORD)
     rbook = xlrd.open_workbook(excel_path)
     rsheet = rbook.sheet_by_index(0)
     wbook = copy(rbook)
